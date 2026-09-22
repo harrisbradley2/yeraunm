@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：部署实践：Nginx高可用配置方案实践
+简介：磁盘 inode 耗尽文件创建失败，排查磁盘 inode 占用，清理大量小文件，恢复文件创建能力。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/16177359.html
+
+原标题：golang 表单文件大小限制配置
+简介：极简方式搭建个人技术文档站点，使用轻量化工具快速部署文档站点，支持 markdown 编写，实现知识沉淀与对外分享。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/72660584.html
+
+原标题：golang 简单爬虫请求防封禁
+简介：golang go http 安全头配置实践，设置 http 安全响应头，防范 XSS、点击劫持，提升 web 服务安全性。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/96571382.html
+
+原标题：大文件导出内存溢出防护
+简介：缓存穿透击穿雪崩全套防护，完整梳理缓存三大问题，落地全套防护策略，保障缓存层稳定运行。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/85837947.html
+
+原标题：内存泄漏定位分析完整流程
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84726058.html
+
+原标题：排坑：Git提交历史混乱，如何清理错误提交
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06048452.html
+
+原标题：golang 系统设计 README 开源文档模板
+简介：依赖安装失败全方位排错，从网络、镜像源、权限、版本多角度，定位依赖安装失败，给出对应修复手段。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/20258462.html
+
+原标题：Git commit 钩子提交规范校验
+简介：golang 云存储 s3 协议对象存储，go s3 客户端，兼容 minio 阿里云 oss，实现文件上传下载签名访问。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06948128.html
+
+原标题：golang elasticsearch 索引设计思路
+简介：新手快速上手 Git 版本控制实操指南，讲解 Git 基础概念与常用命令，结合实操案例，帮助零基础用户掌握版本控制核心能力。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/68348070.html
+
+原标题：架构笔记：任务调度系统架构设计与可靠性
+简介：TCP 心跳检测清理僵死连接，开启 TCP 心跳机制，自动清理僵死无效连接，释放连接资源。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/05371279.html
+
+原标题：Dockerfile 编写容器打包实战
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/62500603.html
+
+原标题：游标分页大数据查询性能提升
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84126702.html
+
+原标题：Hands‑on：简易导出PDF后端生成demo实践
+简介：nodejs 集成测试业务流程编写，编写 Node 集成测试，调用真实接口，验证完整业务链路执行结果。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/64804918.html
+
+原标题：﻿【GettingStarted】从零搭建本地开发环境完整指南
+简介：golang 容器内读取 k8s 配置 configmap，程序读取 k8s configmap 配置，配置与镜像分离便于运维。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06959035.html
+
+原标题：Security：Web常见安全漏洞原理与修复清单
+简介：开发环境变量配置全平台教程，区分 Windows、macOS、Linux 系统，讲解环境变量配置、加载优先级与常见失效原因。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/73644057.html
+
+原标题：Practice：实现批量任务失败断点续跑实践
+简介：golang 优雅关闭 grpc 服务示例，gRPC 服务优雅关闭，等待现有请求处理完成再停止服务。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/28460673.html
+
+原标题：golang 系统设计主键 id 选型雪花自增对比
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/17945150.html
+
+原标题：前端打包产物体积压缩优化
+简介：﻿从零搭建本地开发环境完整教程，手把手完成环境配置，梳理踩坑点，帮助开发者快速搭建可用的本地开发环境，降低上手成本。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06943790.html
+
+原标题：CPU 亲和性配置负载均衡调度
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/72613846.html
+
+原标题：Performance：数据库分表解决单表过大性能衰减
+简介：手写简易 ORM 理解对象映射，手写极简 ORM 示例，理解对象与数据库表字段映射底层原理。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39682781.html
+
+原标题：入门实战：搭建简易静态网页项目
+简介：分布式事务最终一致性实现，基于可靠消息实现最终一致性，解决跨数据库跨服务业务数据一致性。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/61590560.html
+
+原标题：移动端适配 rem vw 方案对比
+简介：golang goroutine 协程基础实操，Goroutine 基础实操案例，启动协程执行任务，理解轻量级协程特性。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/47471282.html
+
+原标题：浮点计算精度错误处理方案
+简介：golang gorm group by 分组统计，GORM 分组聚合统计，实现 count sum 等统计查询，快速完成统计业务。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06904501.html
+
+原标题：golang 系统设计网关错误重试超时处理策略
+简介：react hooks 常见陷阱避坑指南，梳理 React Hooks 高频踩坑点，依赖数组、闭包陷阱，写出稳定组件。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39259573.html
+
+原标题：文件批量导入导出功能实现
+简介：golang rate‑limiter 限流组件，封装通用 Go 限流组件，支持多算法，业务接口直接复用调用。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/51803780.html
+
+原标题：golang 系统设计分表分页排序业务实现难点
+简介：golang goroutine 泄露常见场景汇总，channel 阻塞、context 忘记取消，导致协程无法退出发生泄露。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/28662907.html
+
+原标题：优化实践：预加载与懒加载业务场景取舍
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/31310844.html
+
+原标题：golang redis 分布式计数器开发
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/27951211.html
+
+原标题：实践：灰度流量切分简易实现方案
+简介：OpenAPI 自动接口文档生成，集成 OpenAPI 工具，自动扫描代码生成接口文档，减少文档维护成本。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84626838.html
+
+原标题：前端打包分包加载提速方案
+简介：golang io.LimitReader 限制读取字节数，LimitReader 限制最大读取，防止读取超大数据。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/93784616.html
+
+原标题：golang 系统设计熔断算法 hystrix 思路
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/17027950.html
+
+原标题：灰度发布策略服务平滑升级
+简介：时间精度统一业务判断修复，统一业务使用时间戳精度，毫秒秒区分清楚，修复时间判断逻辑错误。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/57450685.html
+
+原标题：Hands‑on：本地模拟消息重复消费处理实践
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/94137059.html
+
+原标题：CI 持续集成自动构建流程
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/95826493.html
+
+原标题：代理 HTTPS 证书访问异常处理
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/14827137.html
+
+原标题：部署复盘：静态资源版本哈希缓存策略
+简介：golang 分页查询封装通用工具，封装 Go 通用分页工具，统一处理分页参数，简化业务分页接口开发。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/17156391.html
+
+原标题：Troubleshoot：磁盘打满导致服务全部不可用
+简介：限流规则误拦截正常请求修复，修正限流规则阈值，避免合法用户被限流拦截，兼顾防护与可用性。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/40381625.html
+
+原标题：golang 系统设计内部服务契约测试简单思路
+简介：golang strings 常用函数业务实战，字符串分割替换包含判断前缀后缀，掌握 strings 包高频函数。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/95827947.html
+
+原标题：入门实践：项目配置文件多环境管理方案
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39288380.html
+
+原标题：踩坑记录：浮点数作为Rediskey匹配异常
+简介：依赖版本冲突兼容修复方案，定位依赖版本冲突根源，通过版本约束、替换包，解决版本不兼容运行报错。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/08460240.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang 系统设计网关 ssl 证书配置更新实操
+简介：前端水印防信息泄露实现，实现网页水印功能，页面叠加用户信息水印，防止页面截图信息外泄。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/83671504.html
+
+原标题：手写简易 ORM 理解对象映射
+简介：代码模块化组件化拆分思路，讲解代码拆分原则，将大业务拆分为独立模块组件，提升代码复用与维护能力。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/62610292.html
+
+原标题：线程调度优化减少上下文切换
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/50387241.html
+
+原标题：golang es 分词器选型业务适配
+简介：golang cgroup 读取容器资源限制，go 程序读取 cgroup，获取容器 cpu 内存限额，适配容器环境。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/95245025.html
+
+原标题：golang redis 大 key 识别处理方案
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/83727069.html
+
+原标题：实战项目：GitSubmodule管理多仓库实践
+简介：golang go 并发模式 or‑channel 信号合并，合并多个 done 信号，任意一个完成触发退出逻辑。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/82561686.html
+
+原标题：Troubleshooting：k8s镜像拉取失败镜像仓库网络问题
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/95148907.html
+
+原标题：上传接口跨域配置特殊适配
+简介：配置与镜像分离防止信息泄露，业务配置不打包进镜像，外部挂载配置，避免密钥配置随镜像泄露。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/26359279.html
+
+原标题：HelloWorld：快速上手新项目最小可运行示例
+简介：正则表达式优化 CPU 占满问题，优化正则表达式写法，避免回溯，防止正则运算 CPU 占用 100%。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/75259170.html
+
+原标题：Hands‑on：模拟RPC超时重试业务异常场景
+简介：golang 时间时区处理避坑指南，Go 时间时区常见坑，时区转换，时间比较，规避时间逻辑错误。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/28380503.html
+
+原标题：golang 系统设计日志脱敏敏感字段过滤处理
+简介：golang snowflake 时钟回拨解决方案，雪花算法处理时钟回拨，防止生成重复 ID，保证 ID 全局唯一。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/62512673.html
+
+原标题：设计思考：系统降级开关架构设计快速切流量
+简介：Redis 内存淘汰策略数据防丢失，合理配置 Redis 内存淘汰策略，防止内存满后误删除业务重要数据。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/28271403.html
+
+原标题：golang 系统设计分库分表中间件思路
+简介：golang md5 sha 加密工具实现，实现 MD5、SHA 哈希工具，做数据摘要，用于签名校验场景。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84246948.html
+
+原标题：业务幂等键设计防重复逻辑
+简介：golang 内存 dump 线上堆快照采集，线上生成内存 dump 文件，线下分析，定位内存泄漏问题。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/62515748.html
+
+原标题：短信服务封装失败自动重试
+简介：golang makefile 多平台编译脚本，makefile 一键交叉编译多平台二进制，打包镜像，执行测试。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06350341.html
+
+原标题：golang 系统设计密钥轮换安全实践思路
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/83959169.html
+
+原标题：golang 系统设计分布式锁看门狗续期原理理解
+简介：golang init 函数合理使用边界，少用 init，优先显式调用初始化，便于控制初始化时机。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/97460371.html
+
+原标题：nodejs 集群模式多核利用实现
+简介：网关集成鉴权限流日志一体化，在网关层整合鉴权、限流、请求日志，统一对入口请求做管控处理。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06959069.html
+
+原标题：方案设计：短链接系统完整架构方案拆解
+简介：后端分页查询逻辑代码实现，编写后端分页接口，处理页码、每页条数参数，优化大数据量查询返回结果。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/51401614.html
+
+原标题：Security：SSRF服务端请求伪造漏洞防御
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39392403.html
+
+原标题：golang consul 服务发现简单示例
+简介：浏览器内存泄漏排查前端页面，梳理前端页面内存泄漏场景，讲解排查手段，修复页面内存持续上涨。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/02900785.html
+
+原标题：golang 系统设计压测指标 qps rt 错误率讲解
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/28127958.html
+
+原标题：golang 系统设计 gob msgpack 序列化对比
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/38581281.html
+
+原标题：Architecture：静态资源分发CDN整体架构思路
+简介：前端错误监控上报系统搭建，搭建前端错误监控，捕获页面 JS 错误，上报后端，快速发现线上页面 bug。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/38271380.html
+
+原标题：Nginx 静态代理负载均衡全套配置
+简介：golang jwt jwk 公钥验证令牌，使用 jwk 公钥校验 jwt，非对称方式签发校验令牌，提升安全性。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/49361681.html
+
+原标题：golang 系统设计 go netpoll 多路复用简单理解
+简介：nodejs redis 缓存业务实战，Node 对接 Redis 实现业务缓存，缓存热点查询结果，减轻数据库压力。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/36359570.html
+
+原标题：开发记录：批量接口请求并发控制实践
+简介：golang slice 切片底层原理与坑点，切片扩容、截取、底层数组共享，规避切片修改互相影响数据。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/58571918.html
+
+原标题：慢查询分析索引调优数据库实战
+简介：golang go 服务压测前后性能对比，压测记录 QPS 延迟，优化前后对比，验证优化效果。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/63739165.html
+
+原标题：部署复盘：配置热更新不用重启服务方案
+简介：golang 错误栈捕获打印方案，捕获错误完整调用堆栈，线上日志输出堆栈，快速定位错误发生代码位置。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/28571383.html
+
+原标题：坑点：限流计数器重置时机错误，绕过限流规则
+简介：Docker 容器网络不通排查，排查容器网络模式、端口映射、防火墙，解决容器之间、容器外部网络不通。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/51804018.html
+
+原标题：架构复盘：容器资源隔离架构CPU内存限制设计
+简介：GitHub 项目提交推送完整流程讲解，从仓库初始化到提交推送远程仓库，梳理全流程细节，避开新手高频错误。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/38288381.html
+
+原标题：性能复盘：GC停顿过长业务卡顿优化记录
+简介：golang strings.Builder 字符串高效拼接，strings.Builder 做字符串拼接，比 += 性能更高，减少内存拷贝。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/74126248.html
+
+原标题：环境变量不生效问题修复
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06959236.html
+
+原标题：golang docker 部署 kafka 本地调试
+简介：golang go 项目 CI github actions 配置，github actions 实现 go 项目 ci，自动测试、代码检查、编译打包镜像。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/08171380.html
+
+原标题：架构复盘：消息死信处理架构避免消息丢失
+简介：内存溢出问题现象识别排查，识别内存溢出现象，梳理排查方向，定位内存持续上涨引发服务崩溃问题。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/40289380.html
+
+原标题：本地数据库开发环境搭建指南
+简介：包管理器依赖缓存清理，清理本地依赖缓存，解决缓存旧包引发问题，拉取最新版本依赖包。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/17028350.html
+
+原标题：磁盘 inode 耗尽文件创建失败
+简介：golang atomic 原子操作整数，atomic 加减比较交换，无锁更新整型变量，简单计数器场景。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/60369180.html
+
+原标题：快速入门对象存储基础使用场景
+简介：golang context.WithCancel 手动取消上下文，WithCancel 生成可取消 ctx，手动调用 cancel 触发取消。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/83723946.html
+
+原标题：golang gin 静态资源访问配置
+简介：golang 内存 dump 线上堆快照采集，线上生成内存 dump 文件，线下分析，定位内存泄漏问题。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/17167271.html
+
+原标题：方案设计：批量大数据导出系统架构拆解
+简介：程序预加载加快服务启动速度，把高频使用资源提前预加载，减少请求阶段初始化，加快服务启动。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/08566249.html
+
+三、实战开发｜Practice
+原标题：Architecture：中小型后端服务整体架构设计复盘
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/51682161.html
+
+原标题：容器内存扩容 OOM 被杀死修复
+简介：golang goroutine 协程基础实操，Goroutine 基础实操案例，启动协程执行任务，理解轻量级协程特性。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39681380.html
+
+原标题：项目实践：多租户数据隔离三种方案实操对比
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/51738057.html
+
+原标题：消息队列生产消费模型入门
+简介：JWT 令牌过期异常处理，捕获 JWT 过期、篡改异常，编写业务处理逻辑，引导用户重新获取令牌。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39681349.html
+
+原标题：golang 接口返回统一封装工具
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84848270.html
+
+原标题：nodejs 内存溢出问题排查修复
+简介：开发测试生产多环境配置区分，讲解三套环境配置分离思路，配置文件隔离，防止开发配置泄露到生产环境。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/62512827.html
+
+原标题：GET POST 接口请求参数处理
+简介：异步任务堆积消费能力优化，处理消息任务堆积问题，提升消费处理速度，恢复队列正常处理水位。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06025724.html
+
+原标题：HelloMarkdown：GitHubMarkdown完整语法速查
+简介：Redis 热点 key 拆分降低集群压力，拆分访问量极高的热点 Key，分散请求压力，避免 Redis 节点压力过高。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84056168.html
+
+原标题：golang 静态编译缩小镜像体积
+简介：golang http cookie jar 会话处理，客户端 cookie jar 自动管理 cookie，处理登录态会话。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/29461383.html
+
+原标题：nodejs redis 缓存业务实战
+简介：前端错误监控上报系统搭建，搭建前端错误监控，捕获页面 JS 错误，上报后端，快速发现线上页面 bug。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/83723805.html
+
+原标题：Architecture：中小型后端服务整体架构设计复盘
+简介：golang 任务失败重试与死信队列，异步任务失败自动重试，超过重试次数进入死信队列人工处理。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/40389340.html
+
+原标题：部署复盘：静态资源版本哈希缓存策略
+简介：golang 延迟队列实现方案对比，时间轮、redis zset 实现延迟队列，处理延时执行业务。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/94159161.html
+
+原标题：Architecture：文件处理服务架构大文件内存规避
+简介：golang grpc 双向流双向通信开发，grpc 双向流，服务端客户端持续互发消息，长连接流式业务场景。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/06949149.html
+
+原标题：JSON XML 数据解析处理示例
+简介：golang go 爬虫代理池轮换使用，http 代理池轮换，请求自动切换代理 IP，突破访问限制。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/47360283.html
+
+原标题：Practice：模拟热点key，验证缓存防护策略
+简介：golang time.After 内存泄漏场景，for 循环使用 time.After 会创建大量 timer，造成内存泄漏。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/17477248.html
+
+原标题：复盘总结：技术方案文档模板架构设计文档
+简介：Redis 热点 key 拆分降低集群压力，拆分访问量极高的热点 Key，分散请求压力，避免 Redis 节点压力过高。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/62601746.html
+
+原标题：开发环境变量配置全平台教程
+简介：前端图片懒加载性能优化，实现图片懒加载，页面可视区域才加载图片，减少页面初始网络请求。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/37989019.html
+
+原标题：golang 分布式 ID 雪花算法实现
+简介：内网 DNS 不稳定随机报错排查，定位内网 DNS 抖动问题，配置备选 DNS，解决偶现域名解析失败。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/70887990.html
+
+原标题：golang 系统设计延迟消息实现几种方案对比
+简介：golang sync.Once 只执行一次，sync.Once 做单例初始化，保证代码只执行一次，并发安全。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/42430744.html
+
+原标题：golang 系统设计缓存热点 key 问题业务规避
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/70200206.html
+
+原标题：部署实践：告警收敛避免告警风暴配置
+简介：﻿从零搭建本地开发环境完整教程，手把手完成环境配置，梳理踩坑点，帮助开发者快速搭建可用的本地开发环境，降低上手成本。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/57897453.html
+
+原标题：实战项目：容器资源限制配置压力测试实践
+简介：开发测试生产多环境配置区分，讲解三套环境配置分离思路，配置文件隔离，防止开发配置泄露到生产环境。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/03454356.html
+
+原标题：nodejs jwt 登录鉴权完整示例
+简介：数据库读写分离性能优化，讲解读写分离原理，主库写入从库查询，分担数据库查询压力，提升查询性能。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/70322345.html
+
+原标题：golang 系统设计压力测试性能测试执行流程
+简介：golang os/exec 安全执行外部命令，规避命令注入漏洞，参数分离，禁止拼接命令字符串执行。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/70030232.html
+
+原标题：golang minio 分片上传断点续传
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/93772212.html
+
+原标题：nodejs 集成测试业务流程编写
+简介：golang 系统资源限制读取 cpu 内存，读取系统容器 cpu 内存限制，程序适配容器资源配额做业务调优。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/39912352.html
+
+原标题：SourceMap 生成线上报错定位
+简介：golang 钉钉企业微信告警消息推送，go 调用企业微信钉钉接口，推送告警通知、业务消息。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/64758035.html
+
+原标题：零基础理解读写分离基础思想
+简介：golang go 防止路径穿越攻击，文件操作校验路径，拒绝../ 路径穿越，禁止访问系统任意文件。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/47048024.html
+
+原标题：golang 系统设计数据库死锁分析规避
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/03701460.html
+
+原标题：golang 系统设计雪花算法 id 原理剖析
+简介：nodejs 项目 pm2 部署运维指南，使用 PM2 管理 Node 服务，进程守护、日志、重启，线上部署运维实操。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/26734602.html
+
+原标题：实战：Nginx配置静态站点、反向代理、负载均衡
+简介：移动端适配 rem vw 方案对比，对比 rem 与 vw 移动端适配方案，分析优缺点，给出选型建议。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/47134791.html
+
+原标题：golang docker 镜像体积优化技巧
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/36012557.html
+
+原标题：CI 流水线超时时间延长配置
+简介：golang redis list 队列简易消息队列，利用 Redis List 实现简易队列，完成任务入队消费基础能力。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/92566914.html
+
+原标题：线上异常：接口偶发超时，完整定位过程记录
+简介：golang 跨平台系统差异处理方案，处理 windows linux mac 路径、信号、文件权限差异，代码跨平台兼容。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/24790577.html
+
+原标题：设计思考：业务系统如何做故障隔离架构
+简介：golang 配置文件多格式兼容加载，同时支持 yaml toml json 多种格式配置文件，灵活适配不同部署环境。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/46017915.html
+
+原标题：Debug日志：生产环境偶发空指针异常排查
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/59192680.html
+
+原标题：多环境配置中心灵活切换方案
+简介：本地运行正常线上报错排查，对比本地与线上环境差异，从配置、系统版本、文件权限定位线上独有的 bug。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/35682025.html
+
+原标题：golang 系统设计定时任务执行超时中断防护
+简介：golang sqlx 原生 SQL 代码简化，sqlx 简化原生 SQL 结果映射结构体，兼顾性能与开发效率。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/51455792.html
+
+原标题：实战：Redis管道批量操作性能优化实践
+简介：golang 数据库分表策略按时间分片，按时间维度分表，历史数据拆分，单表数据量控制保证查询性能。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/58856488.html
+
+原标题：坑点：限流计数器重置时机错误，绕过限流规则
+简介：golang 分布式锁 redis 实现，基于 Redis 实现 Go 分布式锁，解决多实例并发竞争资源问题。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/80699136.html
+
+四、架构设计｜Architecture
+原标题：golang 系统设计内部服务 mock 集成测试方案
+简介：慢查询分析索引调优数据库实战，抓取慢查询，分析执行计划，优化索引，解决数据库慢查询拖慢业务。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/92579027.html
+
+原标题：OpenSource：开源项目许可证License选型指南
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/82557916.html
+
+原标题：API 接口调试与异常处理实战
+简介：多实例部署 Session 共享方案，多服务实例部署场景，实现 Session 共享，保证用户登录状态跨实例生效。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/61671122.html
+
+原标题：golang 系统设计线上故障排查完整流程
+简介：golang redis 锁超时业务处理，Redis 分布式锁超时问题处理，锁续期逻辑，防止业务未完成锁提前释放。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/91458026.html
+
+原标题：多版本开发环境共存配置
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/29125689.html
+
+原标题：golang 简单爬虫请求防封禁
+简介：手写简易 RPC 服务通信原型，手写极简 RPC 原型，理解服务注册、网络传输、方法调用底层逻辑。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/84591688.html
+
+原标题：大文件导出内存溢出防护
+简介：golang 探测文件真实内容类型，读取文件头部字节判断真实文件格式，规避后缀伪造。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/14757875.html
+
+原标题：golang redis lua 脚本开发调试
+简介：golang rsa 签名验签 pem 证书加载，加载 pem 格式密钥证书，rsa 签名与验签完整业务实现。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/99989192.html
+
+原标题：golang k8s hpa 水平 pod 自动扩缩容
+简介：Docker 网络模式容器互通设置，选择合适 Docker 网络模式，实现容器之间网络互相访问通信。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/81120290.html
+
+原标题：开发记录：日志脱敏防止敏感信息输出实践
+简介：前端图片懒加载性能优化，实现图片懒加载，页面可视区域才加载图片，减少页面初始网络请求。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/56798800.html
+
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：nodejs jwt 登录鉴权完整示例，Node 实现 JWT 登录鉴权，登录签发令牌，接口校验令牌身份。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/14399991.html
+
+原标题：新手教程：本地项目初始化gitignore配置
+简介：golang time 时间比较 Before After Equal，时间比较不要直接减，使用内置方法判断时间先后。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/23545657.html
+
+原标题：Debug：长连接未设置心跳，连接僵死不回收
+简介：ORM 框架数据库增删改查实操，使用 ORM 框架完成数据库基础操作，减少手写 SQL，简化业务层数据库交互代码。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/36999102.html
+
+原标题：golang 系统设计分布式锁看门狗续期原理理解
+简介：golang 协程泄露问题排查方法，识别 Go 协程泄露现象，分析泄露场景，给出排查定位协程泄露手段。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/54621212.html
+
+原标题：优化实践：分页查询性能优化解决offset问题
+简介：golang gin 中间件执行顺序讲解，理解 Gin 中间件注册顺序，区分前置后置逻辑，规避中间件顺序 bug。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/41491685.html
+
+原标题：golang docker 运行 etcd 本地测试
+简介：HTTPS 证书过期更新操作，检测 HTTPS 证书到期，更新证书文件，恢复 HTTPS 服务正常访问。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/40773603.html
+
+原标题：坑点：Git仓库过大，clone速度极慢解决方案
+简介：golang go‑zero 监控指标埋点，go‑zero 内置 metrics 监控，上报业务指标对接监控平台。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/49269414.html
+
+原标题：golang 系统设计单元测试编写原则最佳实践
+简介：golang errors.Is errors.As 错误判断，判断是否为指定错误类型，提取自定义错误信息，错误处理进阶。
+ | 原文链接：http://www.blog.mhtkv.cn/wiwkb/73660491.html
+
+?
