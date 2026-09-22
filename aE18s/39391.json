@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 系统设计数据库慢请求排查流程
+简介：golang 单元测试 mock http 请求，mock HTTP 外部接口，单元测试不依赖外部网络，保证用例稳定运行。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17157024.html
+
+原标题：golang 系统设计 debug 远程调试 go 程序实操
+简介：限流组件计数器令牌桶模式实现，实现计数器、令牌桶两种限流算法，封装可复用限流组件。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/29378127.html
+
+原标题：golang 系统设计死信队列 dlq 业务落地完整流程
+简介：golang 参数校验业务接口处理，Go 接口入参参数校验，拦截非法入参，减少业务层参数判断代码。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/74894740.html
+
+原标题：依赖安装失败全方位排错
+简介：CLI 批量处理工具文件操作开发，开发命令行批量工具，实现批量文件处理，提升重复文件处理效率。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/79591380.html
+
+原标题：Hands‑on：简易消息推送服务开发实践
+简介：nodejs 定时任务生产环境避坑，Node 定时任务线上踩坑汇总，集群重复执行、任务阻塞等问题解决方案。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62590579.html
+
+原标题：golang 接口请求日志记录中间件
+简介：golang aes 对称加密解密示例，AES 对称加密解密实现，业务敏感数据加密存储传输。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/73602790.html
+
+原标题：开发复盘：内存缓存LRU淘汰策略实现实践
+简介：golang netlink 系统信息获取，netlink 获取系统网络信息，网卡地址，内核网络状态读取。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28460348.html
+
+原标题：文件编码统一随机乱码修复
+简介：golang nats 轻量消息队列 go 开发，nats 高性能轻量消息系统，发布订阅模式异步解耦业务。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51613892.html
+
+原标题：golang 系统设计配置多环境隔离方案落地
+简介：css 变量主题切换方案实现，使用 CSS 变量实现网页主题切换，多套主题样式快速切换无需大量 CSS。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51568440.html
+
+原标题：开发复盘：消息队列消息顺序性业务落地实践
+简介：golang json omitempty 零值坑，omitempty 会忽略零值，区分业务是否需要输出零值字段。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/96857913.html
+
+原标题：golang 系统设计 rest 版本管理几种方案对比
+简介：golang 程序崩溃 core dump 生成调试，开启 core dump，程序崩溃生成转储文件，事后分析崩溃原因。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/30390491.html
+
+原标题：golang 项目 go mod 依赖管理
+简介：golang go panic 合理使用边界，panic 只用于不可恢复程序错误，业务逻辑禁止直接 panic。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62884683.html
+
+原标题：vite 项目配置与构建提速技巧
+简介：前端 pdf 预览渲染方案对比，对比前端 PDF 预览库，分析性能、兼容性，给出业务选型参考。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/94823676.html
+
+原标题：分布式锁失效问题排查修复
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/82990670.html
+
+原标题：golang 系统设计无锁编程思路简单示例
+简介：golang channel 作为函数参数方向，声明 channel 入参方向，只读 channel 只写 channel 提升代码约束。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/39260249.html
+
+原标题：golang 系统设计唯一索引业务使用场景
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/52584513.html
+
+原标题：golang 开发环境快速搭建指南
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/84624945.html
+
+原标题：设计思考：分布式系统时钟同步带来的架构问题
+简介：golang go 爬虫代理池轮换使用，http 代理池轮换，请求自动切换代理 IP，突破访问限制。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06935124.html
+
+原标题：Troubleshooting：Nginx缓冲区过小大文件上传失败
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/80381313.html
+
+原标题：golang 系统设计单元测试表驱动测试 table‑driven
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/41569347.html
+
+原标题：方案对比：定时任务框架选型与架构对比
+简介：golang rsa 签名验签 pem 证书加载，加载 pem 格式密钥证书，rsa 签名与验签完整业务实现。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62469230.html
+
+原标题：实战项目：实现简单缓存服务缓存穿透击穿防护
+简介：golang go 服务日志输出 journald，systemd journald 接收程序 stdout 日志，统一管理服务日志。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/96855013.html
+
+原标题：AI‑Dev：AI辅助编码高效使用提示词技巧
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/40379367.html
+
+原标题：golang 系统设计日志脱敏防止信息泄露
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/75917906.html
+
+原标题：正则表达式文本处理实战案例
+简介：内存泄漏定位分析完整流程，分享内存泄漏排查步骤，定位没有释放的对象，解决内存持续上涨问题。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06045914.html
+
+原标题：Architecture：大文件上传下载系统架构设计
+简介：golang http body 必须关闭的重要性，无论成功失败必须关闭 request.Body，否则连接无法复用泄漏。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62490279.html
+
+原标题：实战：搭建日志收集分析简易完整演示环境
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95835135.html
+
+原标题：Issue：操作系统最大打开文件数限制导致报错
+简介：golang os.Signal 信号监听完整示例，signal.Notify 监听信号，缓冲 channel 防止信号丢失。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17945715.html
+
+原标题：项目实践：MySQL读写分离本地模拟实践
+简介：golang go 应用内存使用优化手段，减少对象分配，复用对象，降低 GC 压力，减少 GC 停顿时间。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62500280.html
+
+原标题：golang kafka 生产者参数调优
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/85724623.html
+
+原标题：golang 系统设计消息堆积排查扩容完整步骤
+简介：golang go 优雅处理信号丢失场景，处理信号丢失、信号被忽略，保障程序可以正常接收终止信号。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/30378361.html
+
+原标题：golang 系统设计 pr 评审合并完整流程
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17934683.html
+
+原标题：线上故障：热点Key打满RedisCPU节点过载
+简介：Docker 网络模式容器互通设置，选择合适 Docker 网络模式，实现容器之间网络互相访问通信。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/85827812.html
+
+原标题：Debug：DNS缓存TTL设置不当服务切换无法生效
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/02506906.html
+
+原标题：Troubleshooting：数据库索引失效，查询性能暴跌
+简介：Shell 脚本自动化命令编写，讲解 Shell 基础语法，编写自动化脚本，完成批量执行、文件处理，解放重复手工操作。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/07934514.html
+
+原标题：golang 系统设计业务指标系统指标定义思路
+简介：golang 互斥锁读写锁并发安全，互斥锁读写锁实操，保护共享变量，解决多协程并发读写数据竞争。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/83502689.html
+
+原标题：新手教程：gitstash暂存工作区变更实操
+简介：golang redis 过期时间处理技巧，设置 key 过期，监控过期事件，基于过期特性实现业务缓存逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95804773.html
+
+原标题：调优方案：消息队列消费速度优化处理堆积
+简介：数据库事务 ACID 原理讲解，拆解事务四大特性，理解事务隔离、原子性，明白事务如何保障数据安全。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/63783402.html
+
+原标题：golang 系统设计 mq 消息重复消费处理
+简介：golang go 调度器 GMP 模型通俗讲解，拆解 GMP 模型，理解 goroutine M P 调度原理，看懂调度状态。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95722591.html
+
+原标题：golang etcd 分布式锁实现原理
+简介：golang arp 缓存读取操作，读取系统 arp 缓存表，获取 ip 对应的 mac 地址信息。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/60389458.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：nodejs 项目 pm2 部署运维指南
+简介：看懂报错日志快速定位问题，讲解日志阅读方法，解析堆栈信息含义，学会从报错信息中定位代码出错位置。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/63683562.html
+
+原标题：Issue：定时任务并发执行未加锁重复执行业务
+简介：golang go 整洁架构代码组织实践，整洁架构依赖向内，解耦业务逻辑与外部基础设施。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51458956.html
+
+原标题：实战：Redis管道批量操作性能优化实践
+简介：golang 优雅处理数据库事务，Go 数据库事务封装，正确处理事务提交回滚，保证业务数据一致性。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06013894.html
+
+原标题：架构笔记：数据脱敏架构接入层与存储层方案
+简介：golang context 超时取消实战案例，使用 context 控制协程、http 请求超时，自动终止超时任务，避免协程无限阻塞。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/07056017.html
+
+原标题：golang 系统设计分布式会话方案对比
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/79558359.html
+
+原标题：缓存穿透击穿雪崩全套防护
+简介：golang 换行符统一处理，文本文件读写统一换行符，规避不同系统换行符带来解析异常。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51390381.html
+
+原标题：业务错误码完整落地实践
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/30379583.html
+
+原标题：部署复盘：静态站点部署CDN完整流程
+简介：DNS 解析异常第三方调用故障，排查 DNS 解析故障，修复域名解析，恢复第三方接口网络调用。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/73702013.html
+
+原标题：golang 系统设计业务指标系统指标定义思路
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/48268056.html
+
+原标题：Hands‑on：简易连接池原型实现理解原理
+简介：golang go 测试文件命名规范，_test.go 测试文件，TestXxx 单元测试函数命名规范。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/41468367.html
+
+原标题：网关集成鉴权限流日志一体化
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/84713572.html
+
+原标题：Security：密码存储哈希加盐最佳实践
+简介：Git 分支管理多人协作实战教程，详解分支创建、合并、冲突处理，适配团队开发场景，规范多人协同代码工作流。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/40289560.html
+
+原标题：Architecture：BFF后端聚合层架构适用场景
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06935786.html
+
+原标题：入门实践：简单数据脱敏处理示例
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/40367366.html
+
+原标题：调优方案：Docker容器内核参数性能调优
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/40338245.html
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：百万数据 Excel 导出内存优化，优化大 Excel 导出逻辑，流式输出，避免一次性加载全部数据造成 OOM。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28157022.html
+
+原标题：Hands‑on：模板渲染引擎最小原型实现
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/76904783.html
+
+原标题：golang 文件上传下载接口开发
+简介：Redis 内存淘汰策略数据防丢失，合理配置 Redis 内存淘汰策略，防止内存满后误删除业务重要数据。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06916806.html
+
+原标题：golang 系统设计接口频率限制业务落地
+简介：golang base64 编码解码实操，Go Base64 编码解码示例，处理业务场景 Base64 格式数据转换。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/05995783.html
+
+原标题：nodejs 内存溢出问题排查修复
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/49369684.html
+
+原标题：golang toml 配置文件解析教程
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95893683.html
+
+原标题：golang 系统设计热点数据缓存处理
+简介：golang io.MultiReader MultiWriter 拼接流，多个 reader 拼接，多 writer 同时写入一份数据。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06825682.html
+
+原标题：golang 系统设计数据库连接池调优实践
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95824683.html
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/73502392.html
+
+原标题：方案设计：统一错误处理架构全链路方案
+简介：golang gitlab ci go 项目流水线编写，gitlab ci 流水线执行单元测试、静态检查、构建推送镜像。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/07745125.html
+
+原标题：部署复盘：静态资源版本哈希缓存策略
+简介：golang go 项目依赖冲突解决完整思路，定位冲突包，replace、exclude、升级降级解决版本冲突。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/86003801.html
+
+原标题：零基础理解HTTP常用请求头与状态码
+简介：golang go yaml 解析自定义类型，yaml 自定义序列化，时间、特殊类型自定义解析逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/41450346.html
+
+原标题：golang docker 运行 etcd 本地测试
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17034024.html
+
+原标题：Practice：模拟主从延迟业务兼容方案实践
+简介：golang pprof 线上采集性能数据，线上环境采集 pprof 性能样本，不用停机，分析线上性能问题。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28167357.html
+
+原标题：入门实践：简单数据脱敏处理示例
+简介：CDN 缓存刷新获取最新静态资源，调用 CDN 刷新接口，清除节点旧缓存，用户访问到更新后的静态文件。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/85884835.html
+
+原标题：golang 系统设计 io 瓶颈磁盘网络优化实践
+简介：golang 内存 pprof 定位内存泄漏，pprof 分析内存快照，定位内存泄露对象，解决 Go 程序内存持续上涨。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95994683.html
+
+原标题：golang 系统设计技术方案评审关注点清单参考
+简介：浏览器内存泄漏排查前端页面，梳理前端页面内存泄漏场景，讲解排查手段，修复页面内存持续上涨。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/26935024.html
+
+原标题：依赖安装失败全方位排错
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28558060.html
+
+原标题：golang 系统设计配置灰度下发简单实现思路
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/84705627.html
+
+原标题：golang docker compose 本地开发最佳实践
+简介：跨域偶现失败配置修复，解决跨域问题时而复现时而正常，定位配置漏配、请求头异常等隐性问题。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/29693585.html
+
+原标题：golang 系统设计 grpc proto 接口设计原则
+简介：操作系统内核版本适配服务，针对服务运行要求，适配操作系统内核版本，规避内核兼容 bug。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/39682503.html
+
+原标题：数值类型溢出错乱问题修复
+简介：序列化版本不一致解析失败，保证序列化对象版本对齐，修复版本不匹配导致对象反序列化失败。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17138146.html
+
+原标题：golang mongodb 聚合管道实操案例
+简介：全局本地依赖隔离冲突规避，区分全局依赖与项目本地依赖，隔离环境，防止全局包干扰项目运行。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/39783694.html
+
+原标题：性能笔记：HTTP连接复用性能优化实践
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28561697.html
+
+原标题：避坑：ORM框架隐式查询产生大量慢SQL
+简介：nodejs 读取大文件 csv 处理方案，Node 流式读取超大 CSV 文件，逐行解析，避免一次性加载全部文件。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/47694795.html
+
+三、实战开发｜Practice
+原标题：踩坑记录：浮点精度错误造成业务计算错误
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06339270.html
+
+原标题：golang 系统设计一致性哈希原理讲解
+简介：nodejs 读取大文件 csv 处理方案，Node 流式读取超大 CSV 文件，逐行解析，避免一次性加载全部文件。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/01913927.html
+
+原标题：golang 系统设计告警规则阈值设置方法论
+简介：调试工具断点调试变量查看技巧，演示断点设置、变量监视、调用栈查看，借助调试工具高效排查业务逻辑错误。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51614128.html
+
+原标题：golang 系统设计消息 partition 数量设置思路
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/07278057.html
+
+原标题：golang 系统设计主键 id 选型雪花自增对比
+简介：消息消费重试次数限制防爆炸，限制消息最大重试次数，防止失败消息无限重试造成消息爆炸堆积。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/74125028.html
+
+原标题：golang 系统设计 k8s 集群安全配置梳理
+简介：golang 数据库连接池参数调优详解，最大连接空闲连接最大生命周期，结合业务合理配置避免资源浪费。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/39492819.html
+
+原标题：golang 互斥锁读写锁并发安全
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95968362.html
+
+原标题：Nginx 反向代理路由配置实战
+简介：简易网关请求路由过滤模拟，模拟网关基础能力，实现请求路由转发、简单过滤，理解网关核心工作逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06058352.html
+
+原标题：开源实践：开源项目如何写好PullRequest
+简介：golang go 调用动态链接库 so 文件，go 加载 so 动态库调用函数，复用编译好的 C 动态库。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51606931.html
+
+原标题：防火墙 IP 白名单回调接口放行
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/61503835.html
+
+原标题：golang k8s helm chart 简单编写
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95890579.html
+
+原标题：零基础学习简单正则表达式实战案例
+简介：nodejs 全局异常捕获进程防护，捕获未捕获异常与 Promise 拒绝，尽量保护进程不因为异常直接退出。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/73027244.html
+
+原标题：部署复盘：配置不要硬编码进镜像最佳实践
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/40356160.html
+
+原标题：Practice：模拟主从延迟业务兼容方案实践
+简介：golang wasm 性能优化与内存管理，wasm 内存分配释放，减少内存拷贝，优化浏览器端性能。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95950362.html
+
+原标题：golang 系统设计缓存故障降级处理方案
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/16148059.html
+
+原标题：Issue：文件编码混合GBKUTF‑8乱码随机出现
+简介：golang io.Copy 流式拷贝数据，io.Copy 拷贝 reader 到 writer，不用加载全部数据到内存。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28583806.html
+
+原标题：实战项目：CLI批量文件处理工具开发全过程
+简介：多实例部署 Session 共享方案，多服务实例部署场景，实现 Session 共享，保证用户登录状态跨实例生效。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/74916950.html
+
+原标题：golang docker compose 依赖启动顺序
+简介：golang 表单文件大小限制配置，限制表单上传文件最大体积，拦截超大文件上传请求，保护服务。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/84816931.html
+
+原标题：golang 系统设计 saga 事务补偿模式实现思路
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/86068450.html
+
+原标题：安全实践：API密钥管理轮换最佳实践
+简介：golang go url url.Values 参数编码，url.Values 构建 url 查询参数，自动处理参数 url 编码。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/75259272.html
+
+原标题：性能复盘：GC停顿过长业务卡顿优化记录
+简介：golang gin 路由分组权限管控，Gin 路由分组，不同分组绑定鉴权中间件，实现接口权限分组管控。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/07289574.html
+
+原标题：记一次升级操作系统内核引发服务不稳定
+简介：golang go 程序抢占调度理解，理解 go 抢占式调度原理，长循环阻塞调度，造成协程调度延迟。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/73723031.html
+
+原标题：Security：文件路径穿越漏洞完整防护
+简介：golang go‑zero api 接口开发与路由，go‑zero 编写 api 定义文件，生成代码开发 http 接口。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/42635138.html
+
+原标题：安全复盘：日志打印敏感信息泄露治理
+简介：golang context 包标准用法规范，context 传递请求元数据、超时、取消，函数第一个参数传入 ctx。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/84789462.html
+
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：golang 优雅停机服务关闭实现，监听系统信号，关闭服务等待请求处理完毕，实现 Go 服务优雅停机。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06088038.html
+
+原标题：安全复盘：业务登录暴力破解防护完整方案
+简介：接口请求重试容错机制实现，封装请求重试逻辑，遇到临时网络故障自动重试，提升第三方调用稳定性。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/74834027.html
+
+原标题：golang 分布式上下文传递方案
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/53704694.html
+
+原标题：文件编码统一随机乱码修复
+简介：golang 容器信号转发处理问题修复，docker/k8s 正确转发 SIGTERM 信号，保证 go 程序收到信号优雅退出。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62712057.html
+
+原标题：手写简易 MQ 理解消息存储消费
+简介：golang 服务限流熔断降级监控完整实践，微服务防护体系，限流熔断降级指标监控告警整套落地。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/41460695.html
+
+原标题：golang zap 日志按日期切割方案
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28705746.html
+
+原标题：数据库索引重建提升查询速度
+简介：golang nats 轻量消息队列 go 开发，nats 高性能轻量消息系统，发布订阅模式异步解耦业务。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/52613949.html
+
+原标题：golang k8s 滚动更新回滚策略
+简介：JWT 工具封装令牌刷新过期，封装 JWT 工具类，实现令牌生成、校验、过期刷新整套令牌管理逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/26462403.html
+
+原标题：HTTP 状态码请求头完整梳理
+简介：golang go 信号处理优雅重启实现，USR2 触发程序重启，不关闭监听 socket 实现零停机升级。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/30773907.html
+
+原标题：axios 二次封装请求拦截处理
+简介：golang atomic 原子操作整数，atomic 加减比较交换，无锁更新整型变量，简单计数器场景。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95947247.html
+
+原标题：HelloGitWorkflow：理解简单主干开发流程
+简介：golang tcp 四次挥手 go 程序行为，理解 tcp 四次挥手，处理连接关闭、重置、RST 包异常场景。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/31379695.html
+
+原标题：实践：实现Redis分布式锁完整可运行代码
+简介：跨平台换行符统一异常修复，统一代码文件换行符，解决不同操作系统换行符不一致带来脚本执行异常。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28216079.html
+
+原标题：golang 分布式锁 redis 实现
+简介：golang nacos go 客户端配置服务发现，nacos‑go 对接 nacos，配置管理、微服务注册发现。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06357351.html
+
+原标题：Security：开源项目安全审计简易检查清单
+简介：golang 优雅处理 http 超时设置，Go HTTP 请求设置各类超时，防止请求无限阻塞，保护协程与连接。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/63018169.html
+
+原标题：Debug：并发场景下数据覆盖丢失问题定位
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17048069.html
+
+原标题：golang 系统设计 span 埋点业务代码最小侵入思路
+简介：数据库连接池参数调优，调整连接池最大最小连接数，空闲超时，避免连接耗尽或者资源浪费。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/95947340.html
+
+四、架构设计｜Architecture
+原标题：坑点：gitrebase操作失误，代码提交丢失
+简介：Docker Compose 一键搭建本地栈，使用 Compose 编排多个容器，一键拉起全套开发依赖服务。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/62615137.html
+
+原标题：开源实践：参与开源项目从Issue到PR完整流程
+简介：golang 日志级别动态调整热更新，不用重启程序动态修改日志输出级别，线上调试排查问题十分方便。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/05348694.html
+
+原标题：数据库排序规则统一结果一致
+简介：golang http 服务并发连接数限制，自定义 listener 统计连接数量，限制最大并发连接数保护服务。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/51381712.html
+
+原标题：golang 系统设计网络超时故障排查思路
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/52684736.html
+
+原标题：HelloGitWorkflow：理解简单主干开发流程
+简介：并发数据覆盖加锁安全处理，多线程并发修改同一数据，增加锁机制，防止并发覆盖丢失更新数据。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/68351491.html
+
+原标题：golang 系统设计线程协程泄露定位方法
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/76059280.html
+
+原标题：eslint prettier 代码规范落地
+简介：WebSocket 断线重连稳定优化，增加 WebSocket 断线自动重连逻辑，处理网络抖动，维持长连接稳定。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06179028.html
+
+原标题：包管理器依赖缓存清理
+简介：golang hystrix 模式简易熔断实现，简易熔断组件，错误率达到阈值触发熔断，快速失败保护下游。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/06958168.html
+
+原标题：快速入门环境区分：开发、测试、生产环境
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/50881923.html
+
+原标题：实践：Git工作流主干开发团队协作实践
+简介：golang kitex 超时重试熔断配置，kitex 配置调用超时、重试、熔断策略，保障微服务调用稳定性。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/83835727.html
+
+原标题：golang redis pipeline 批量操作
+简介：golang toml 配置文件解析教程，Go 解析 Toml 格式配置，适用于项目配置管理场景。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/26359404.html
+
+原标题：MySQL 慢查询索引优化实战
+简介：接口幂等性防重复请求实现，实现接口幂等逻辑，避免重复提交请求产生多条脏数据，保障业务数据安全。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/39294800.html
+
+原标题：golang 系统设计开源项目维护简单经验分享
+简介：golang go 零停机升级实践要点，socket 继承，流量无损，旧连接处理完毕后旧进程退出。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/74746837.html
+
+原标题：新手参与开源社区贡献指南
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/73996847.html
+
+原标题：移动端适配 rem vw 方案对比
+简介：Git 混乱提交历史清理方法，针对杂乱的提交记录，使用 Git 工具整理，清理无效提交，还原整洁版本历史。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/28574636.html
+
+原标题：golang 大文件读取内存优化
+简介：上传接口跨域配置特殊适配，针对文件上传接口，适配复杂请求，修复上传场景下跨域失效问题。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17481707.html
+
+原标题：踩坑记录：时间戳精度不一致引发判断错误
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/72269580.html
+
+原标题：HelloGitWorkflow：理解简单主干开发流程
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://www.blog.engcwg.cn/gchlj/17170558.html
+
+?
