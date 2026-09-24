@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：开发测试生产多环境配置区分
+简介：golang go 代码覆盖率线上统计，单元测试覆盖率统计，找出未测试代码分支，提升测试质量。
+ | 原文链接：m.sztyke.asia/Article/details/5368470.sHtML
+
+原标题：Architecture：配置中心架构，动态配置设计思路
+简介：新手参与开源社区贡献指南，介绍开源社区基础规则，讲解阅读 issue、提交 PR 流程，指导开发者参与开源贡献。
+ | 原文链接：m.sztyke.asia/Article/details/1827926.sHtML
+
+原标题：golang 系统设计定时任务分片执行分布式思路
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：m.sztyke.asia/Article/details/3153585.sHtML
+
+原标题：项目实践：实现统一接口返回封装与全局异常处理
+简介：接口签名验签完整安全方案，一套完整接口签名方案，包含签名生成、请求携带、服务端验签校验。
+ | 原文链接：m.sztyke.asia/Article/details/9606895.sHtML
+
+原标题：安全实践：敏感信息加密存储传输完整方案
+简介：css 动画性能优化 GPU 加速，优化 CSS 动画，使用 GPU 加速属性，避免动画过程页面卡顿掉帧。
+ | 原文链接：m.sztyke.asia/Article/details/4856802.sHtML
+
+原标题：部署实践：内网开发环境代理配置实践
+简介：golang 分布式锁 redis 实现，基于 Redis 实现 Go 分布式锁，解决多实例并发竞争资源问题。
+ | 原文链接：m.sztyke.asia/Article/details/6967061.sHtML
+
+原标题：入门实践：简单批量处理脚本编写
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：m.sztyke.asia/Article/details/3049150.sHtML
+
+原标题：golang redis 发布订阅简单示例
+简介：golang time 时间格式化参考时间牢记，2006‑01‑02T15:04:05Z07:00，掌握 go 时间格式化关键点。
+ | 原文链接：m.sztyke.asia/Article/details/7479281.sHtML
+
+原标题：排坑：Git提交历史混乱，如何清理错误提交
+简介：golang kafka 消费者组重平衡避坑，规避消费者组频繁 rebalance，减少消费抖动，保障消息消费稳定性。
+ | 原文链接：m.sztyke.asia/Article/details/6373650.sHtML
+
+原标题：架构复盘：网关层、应用层、数据库层层限流架构
+简介：golang goroutine 协程基础实操，Goroutine 基础实操案例，启动协程执行任务，理解轻量级协程特性。
+ | 原文链接：m.sztyke.asia/Article/details/7481463.sHtML
+
+原标题：golang 开发环境快速搭建指南
+简介：CDN 缓存刷新获取最新静态资源，调用 CDN 刷新接口，清除节点旧缓存，用户访问到更新后的静态文件。
+ | 原文链接：m.sztyke.asia/Article/details/9694484.sHtML
+
+原标题：前端静态缓存更新生效处理
+简介：Docker 网络模式容器互通设置，选择合适 Docker 网络模式，实现容器之间网络互相访问通信。
+ | 原文链接：m.sztyke.asia/Article/details/9501283.sHtML
+
+原标题：踩坑记录：乐观锁版本号处理不当更新失败
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：m.sztyke.asia/Article/details/8602392.sHtML
+
+原标题：部署实践：HTTPS证书自动续期配置实践
+简介：提交第一个开源 PR 完整流程，Fork 项目、修改代码、提交 Pull Request，讲解 PR 规范，提升合并通过率。
+ | 原文链接：m.sztyke.asia/Article/details/1821259.sHtML
+
+原标题：golang es 索引生命周期管理思路
+简介：配置与镜像分离防止信息泄露，业务配置不打包进镜像，外部挂载配置，避免密钥配置随镜像泄露。
+ | 原文链接：m.sztyke.asia/Article/details/3046148.sHtML
+
+原标题：实战：搭建本地对象存储兼容S3协议demo
+简介：golang redis 过期键监听回调，监听 key 过期事件，过期触发业务逻辑，实现过期自动处理业务场景。
+ | 原文链接：m.sztyke.asia/Article/details/9312692.sHtML
+
+原标题：golang docker 网络模式桥接 host
+简介：golang 结构体零值可用性原则，go 结构体尽量做到零值可用，不用初始化直接使用提升易用性。
+ | 原文链接：m.sztyke.asia/Article/details/4604504.sHtML
+
+原标题：golang 速率限制令牌桶实现
+简介：超大数据集分页性能优化方案，对比不同分页方案，针对海量数据集做分页性能优化，解决越翻越慢。
+ | 原文链接：m.sztyke.asia/Article/details/2631619.sHtML
+
+原标题：实践：OpenAPI自动生成接口文档完整实践
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：m.sztyke.asia/Article/details/7357294.sHtML
+
+原标题：golang 优雅停机服务关闭实现
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：m.sztyke.asia/Article/details/4828060.sHtML
+
+原标题：Architecture：BFF后端聚合层架构适用场景
+简介：数据库分表存储大表优化方案，对超大数据表做分表，拆分数据，降低单表数据量提升查询性能。
+ | 原文链接：m.sztyke.asia/Article/details/3018029.sHtML
+
+原标题：golang 系统设计内部服务 mock 集成测试方案
+简介：golang url 解析路径参数提取，url.Parse 解析 url，获取协议主机路径查询参数。
+ | 原文链接：m.sztyke.asia/Article/details/4268358.sHtML
+
+原标题：优化实践：Redis管道、批量命令减少网络往返
+简介：golang http 重定向策略自定义，CheckRedirect 自定义重定向逻辑，限制重定向次数，防止死循环。
+ | 原文链接：m.sztyke.asia/Article/details/9694807.sHtML
+
+原标题：静态网页 HTML CSS 快速入门实战
+简介：golang 内存 dump 线上堆快照采集，线上生成内存 dump 文件，线下分析，定位内存泄漏问题。
+ | 原文链接：m.sztyke.asia/Article/details/2939170.sHtML
+
+原标题：golang 系统设计开源项目 release 发布流程
+简介：CORS 跨域问题多种解决方案，对比 CORS、代理等不同跨域方案优缺点，根据业务场景选择合适的跨域处理方式。
+ | 原文链接：m.sztyke.asia/Article/details/6370586.sHtML
+
+原标题：安全实践：接口错误信息不要暴露内部细节
+简介：依赖版本冲突兼容修复方案，定位依赖版本冲突根源，通过版本约束、替换包，解决版本不兼容运行报错。
+ | 原文链接：m.sztyke.asia/Article/details/1381608.sHtML
+
+原标题：消息队列消费堆积扩容处理
+简介：Redis 内存淘汰策略数据防丢失，合理配置 Redis 内存淘汰策略，防止内存满后误删除业务重要数据。
+ | 原文链接：m.sztyke.asia/Article/details/4758869.sHtML
+
+原标题：优化实践：预加载与懒加载业务场景取舍
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：m.sztyke.asia/Article/details/7470259.sHtML
+
+原标题：开发记录：业务错误告警邮件通知组件实践
+简介：Git 误提交撤销回退实操教程，演示多种撤销提交方式，区分已经推送远程和本地未提交场景，处理误提交代码。
+ | 原文链接：m.sztyke.asia/Article/details/0503481.sHtML
+
+原标题：设计思考：业务系统如何设计优雅失败架构
+简介：golang kafka 同步异步消费对比，对比 Kafka 同步消费异步消费，分析优缺点，业务选型参考。
+ | 原文链接：m.sztyke.asia/Article/details/8582604.sHtML
+
+原标题：轻量 API 后端接口服务快速开发
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：m.sztyke.asia/Article/details/9602464.sHtML
+
+原标题：实战项目：编写Dockerfile多阶段构建减小镜像体积
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：m.sztyke.asia/Article/details/2927159.sHtML
+
+原标题：Security：文件上传漏洞攻击面完整防护方案
+简介：代码格式化工具团队统一风格，接入格式化工具，统一全团队代码书写风格，减少格式类 git 冲突。
+ | 原文链接：m.sztyke.asia/Article/details/6371585.sHtML
+
+原标题：golang 系统设计代码评审高效沟通原则思路
+简介：nodejs 多进程任务分发处理，多进程拆分处理 CPU 密集任务，主进程分发任务，利用多核提升处理速度。
+ | 原文链接：m.sztyke.asia/Article/details/5052469.sHtML
+
+原标题：前端打包产物体积压缩优化
+简介：超大数据集分页性能优化方案，对比不同分页方案，针对海量数据集做分页性能优化，解决越翻越慢。
+ | 原文链接：m.sztyke.asia/Article/details/2914026.sHtML
+
+原标题：golang 单例模式实现几种方式
+简介：golang 优雅关闭 grpc 服务示例，gRPC 服务优雅关闭，等待现有请求处理完成再停止服务。
+ | 原文链接：m.sztyke.asia/Article/details/5225015.sHtML
+
+原标题：实践：灰度流量切分简易实现方案
+简介：golang go 程序抢占调度理解，理解 go 抢占式调度原理，长循环阻塞调度，造成协程调度延迟。
+ | 原文链接：m.sztyke.asia/Article/details/1827525.sHtML
+
+原标题：线上故障：热点Key打满RedisCPU节点过载
+简介：golang go 包循环导入报错解决，A 导入 B B 导入 A，循环导入报错，重构代码拆分包消除循环依赖。
+ | 原文链接：m.sztyke.asia/Article/details/0473469.sHtML
+
+原标题：批量操作分批处理防止 OOM
+简介：golang 数据库连接耗尽排查思路，监控连接池状态，定位连接未归还，解决连接耗尽报错。
+ | 原文链接：m.sztyke.asia/Article/details/9629060.sHtML
+
+原标题：golang 系统设计 rest 资源命名规范汇总
+简介：golang 日志脱敏敏感字段过滤，日志打印自动脱敏敏感字段，避免日志输出手机号身份证泄露隐私。
+ | 原文链接：m.sztyke.asia/Article/details/1384904.sHtML
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang mysql 主从同步延迟兼容
+简介：golang strings 常用函数业务实战，字符串分割替换包含判断前缀后缀，掌握 strings 包高频函数。
+ | 原文链接：m.sztyke.asia/Article/details/8267137.sHtML
+
+原标题：Hands‑on：简易配置中心本地原型实现
+简介：golang 数据库连接耗尽排查思路，监控连接池状态，定位连接未归还，解决连接耗尽报错。
+ | 原文链接：m.sztyke.asia/Article/details/9163471.sHtML
+
+原标题：线上异常：布隆过滤器误判造成业务逻辑异常
+简介：golang 参数校验业务接口处理，Go 接口入参参数校验，拦截非法入参，减少业务层参数判断代码。
+ | 原文链接：m.sztyke.asia/Article/details/2924616.sHtML
+
+原标题：方案对比：单体、微服务、模块化单体取舍
+简介：Redis 分布式锁高并发安全实现，基于 Redis 实现分布式锁，处理锁过期、续期，保障集群并发安全。
+ | 原文链接：m.sztyke.asia/Article/details/7039066.sHtML
+
+原标题：排错：对象存储跨域配置不生效前端上传失败
+简介：golang time duration 解析时间字符串，time.ParseDuration 解析 1h30m 时间间隔字符串。
+ | 原文链接：m.sztyke.asia/Article/details/0717959.sHtML
+
+原标题：定时任务重复执行分布式锁
+简介：golang bufio.Scanner 按行读取大文件，Scanner 逐行读取文本文件，处理超大日志 csv。
+ | 原文链接：m.sztyke.asia/Article/details/6370548.sHtML
+
+原标题：安全笔记：文件下载接口路径校验安全
+简介：站内邮件消息通知功能开发，实现站内消息、邮件通知推送，业务事件触发通知，提醒用户业务状态变更。
+ | 原文链接：m.sztyke.asia/Article/details/8481277.sHtML
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：golang 定时任务任务持久化存储，定时任务持久化到数据库，服务重启任务不丢失，动态管理任务。
+ | 原文链接：m.sztyke.asia/Article/details/5268463.sHtML
+
+原标题：踩坑记录：乐观锁版本号处理不当更新失败
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：m.sztyke.asia/Article/details/5169069.sHtML
+
+原标题：方案设计：多租户系统架构三种实现模式对比
+简介：golang go race 竞态检测工具，‑race 检测数据竞争，编译运行检测并发读写数据竞争 bug。
+ | 原文链接：m.sztyke.asia/Article/details/0201359.sHtML
+
+原标题：golang 系统设计内部服务 mock 集成测试方案
+简介：golang fuzz corpus 语料库使用，fuzz 语料存储历史输入，回归测试，持续复现曾经触发 bug 输入。
+ | 原文链接：m.sztyke.asia/Article/details/4379471.sHtML
+
+原标题：新手参与开源社区贡献指南
+简介：golang go 输入数据校验防御，所有外部入参严格校验长度格式，防止恶意输入造成业务异常。
+ | 原文链接：m.sztyke.asia/Article/details/2047141.sHtML
+
+原标题：开源实践：给开源项目写单元测试贡献代码
+简介：golang 空接口 interface {} 类型处理，interface {} 存储任意类型，类型转换，处理泛型之前通用数据。
+ | 原文链接：m.sztyke.asia/Article/details/8403823.sHtML
+
+原标题：踩坑记录：浮点精度错误造成业务计算错误
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：m.sztyke.asia/Article/details/0825936.sHtML
+
+原标题：快速上手简单的限流逻辑模拟实现
+简介：请求工具封装统一异常处理，对网络请求做二次封装，统一捕获各类请求异常，标准化接口返回格式。
+ | 原文链接：m.sztyke.asia/Article/details/0716037.sHtML
+
+原标题：nodejs 数据库连接池配置调优
+简介：序列化版本不一致解析失败，保证序列化对象版本对齐，修复版本不匹配导致对象反序列化失败。
+ | 原文链接：m.sztyke.asia/Article/details/4168063.sHtML
+
+原标题：开发记录：数据库悲观锁乐观锁业务场景实践
+简介：golang 集成测试测试数据库回滚，集成测试结束自动回滚数据库，不污染测试环境数据。
+ | 原文链接：m.sztyke.asia/Article/details/0414417.sHtML
+
+原标题：golang dockerfile 多阶段构建详解
+简介：golang 设置 net.Conn 读写超时，每次读写设置超时，防止连接永久阻塞挂起不返回。
+ | 原文链接：m.sztyke.asia/Article/details/7489259.sHtML
+
+原标题：golang 系统设计大表加索引线上执行方案
+简介：WSL 内存上限限制防止资源耗尽，修改 WSL 内存上限配置，避免 WSL 占用主机大量内存资源。
+ | 原文链接：m.sztyke.asia/Article/details/7047369.sHtML
+
+原标题：优化实践：预加载与懒加载业务场景取舍
+简介：golang go 项目依赖冲突解决完整思路，定位冲突包，replace、exclude、升级降级解决版本冲突。
+ | 原文链接：m.sztyke.asia/Article/details/4149967.sHtML
+
+原标题：golang 系统设计批量处理优化业务性能
+简介：golang http3 quic 客户端服务端示例，go 实现 http3 quic 服务端客户端，体验 quic 协议低延迟特性。
+ | 原文链接：m.sztyke.asia/Article/details/4157572.sHtML
+
+原标题：golang 系统设计定时任务分布式锁防重复执行
+简介：golang go 信号处理优雅重启实现，USR2 触发程序重启，不关闭监听 socket 实现零停机升级。
+ | 原文链接：m.sztyke.asia/Article/details/5263482.sHtML
+
+原标题：golang 系统设计技术方案评审关注点清单参考
+简介：golang go mod why 查询依赖引入原因，go mod why 查询为什么引入某个包，理清依赖来源。
+ | 原文链接：m.sztyke.asia/Article/details/2047947.sHtML
+
+原标题：golang 系统设计令牌桶漏桶算法对比
+简介：golang go 零停机升级实践要点，socket 继承，流量无损，旧连接处理完毕后旧进程退出。
+ | 原文链接：m.sztyke.asia/Article/details/4024926.sHtML
+
+原标题：架构笔记：多数据源架构设计事务处理难点
+简介：golang http 重定向策略自定义，CheckRedirect 自定义重定向逻辑，限制重定向次数，防止死循环。
+ | 原文链接：m.sztyke.asia/Article/details/6395027.sHtML
+
+原标题：golang 系统设计异步化改造业务流程思路
+简介：golang cgo 调用 C 语言代码示例，cgo 调用 C 函数，go 与 C 互相调用，对接 C 语言库能力。
+ | 原文链接：m.sztyke.asia/Article/details/7602723.sHtML
+
+原标题：Practice：实现接口mock动态返回不同响应
+简介：golang wasm webassembly go 编译，go 编译为 wasm，浏览器执行 go 代码，拓展 go 运行场景。
+ | 原文链接：m.sztyke.asia/Article/details/4728929.sHtML
+
+原标题：golang 系统设计日志规范结构化日志落地
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：m.sztyke.asia/Article/details/9291682.sHtML
+
+原标题：开发记录：分布式锁超时业务安全处理实践
+简介：golang go 逃逸分析实操查看，go build‑gcflags=-m 查看逃逸分析，减少堆分配优化程序性能。
+ | 原文链接：m.sztyke.asia/Article/details/5258248.sHtML
+
+原标题：记一次分布式锁失效引发的数据错乱问题
+简介：golang 优雅处理数据库事务，Go 数据库事务封装，正确处理事务提交回滚，保证业务数据一致性。
+ | 原文链接：m.sztyke.asia/Article/details/4158461.sHtML
+
+原标题：快速入门WebSocket，实现简易双向通信demo
+简介：golang 表单文件大小限制配置，限制表单上传文件最大体积，拦截超大文件上传请求，保护服务。
+ | 原文链接：m.sztyke.asia/Article/details/7370571.sHtML
+
+原标题：golang aes 对称加密解密示例
+简介：数值 key 浮点匹配异常规避，避免浮点数作为 Redis 等存储的 key，防止精度问题引发 key 匹配失败。
+ | 原文链接：m.sztyke.asia/Article/details/7349584.sHtML
+
+原标题：golang 系统设计故障定位排查通用步骤方法论
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：m.sztyke.asia/Article/details/1702291.sHtML
+
+原标题：Issue：日志疯狂打日志快速占满磁盘空间
+简介：golang go 符号表与调试信息取舍，区分生产环境调试符号取舍，平衡镜像体积与故障排查能力。
+ | 原文链接：m.sztyke.asia/Article/details/3157158.sHtML
+
+原标题：golang 系统设计告警风暴抑制合并降噪方案
+简介：golang map 并发读写 panic 解决方案，map 非并发安全，讲解加锁、sync.map 方案解决并发读写崩溃。
+ | 原文链接：m.sztyke.asia/Article/details/0681692.sHtML
+
+原标题：react 状态管理方案选型对比
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：m.sztyke.asia/Article/details/1925516.sHtML
+
+原标题：数据库死锁成因规避方案
+简介：消息队列消费堆积扩容处理，消息大量堆积时，扩容消费实例，优化消费逻辑，加快消息处理速度。
+ | 原文链接：m.sztyke.asia/Article/details/6802514.sHtML
+
+原标题：方案设计：短链接系统完整架构方案拆解
+简介：golang go 信号处理优雅重启实现，USR2 触发程序重启，不关闭监听 socket 实现零停机升级。
+ | 原文链接：m.sztyke.asia/Article/details/0691403.sHtML
+
+原标题：多版本开发环境共存配置
+简介：css 变量主题切换方案实现，使用 CSS 变量实现网页主题切换，多套主题样式快速切换无需大量 CSS。
+ | 原文链接：m.sztyke.asia/Article/details/6947747.sHtML
+
+原标题：开发复盘：大事务拆分优化业务性能实践
+简介：静态资源 404 路径打包修复，修复打包后静态资源访问 404，调整资源输出路径，保证资源正常加载。
+ | 原文链接：m.sztyke.asia/Article/details/8985223.sHtML
+
+三、实战开发｜Practice
+原标题：极简方式搭建个人技术文档站点
+简介：golang redis hash 结构业务实战，使用 Redis Hash 存储对象数据，适合对象字段频繁更新业务场景。
+ | 原文链接：m.sztyke.asia/Article/details/5900344.sHtML
+
+原标题：实战：Redis过期回调实现业务事件通知实践
+简介：DNS TTL 配置域名切换生效，调整 DNS 解析 TTL，缩短缓存时间，域名变更后可以快速全网生效。
+ | 原文链接：m.sztyke.asia/Article/details/2677754.sHtML
+
+原标题：golang 系统设计开源项目安全漏洞处理流程
+简介：golang go http 服务器优雅关闭完整代码，http.Server Shutdown，等待现有请求处理完成关闭服务。
+ | 原文链接：m.sztyke.asia/Article/details/9292121.sHtML
+
+原标题：golang 系统设计单元测试表驱动测试 table‑driven
+简介：golang go http 文件服务器自定义，http.FileServer 自定义 FileSystem，拦截访问，增加鉴权逻辑。
+ | 原文链接：m.sztyke.asia/Article/details/2578655.sHtML
+
+原标题：批量操作分批处理防止 OOM
+简介：golang redis list 队列简易消息队列，利用 Redis List 实现简易队列，完成任务入队消费基础能力。
+ | 原文链接：m.sztyke.asia/Article/details/8722459.sHtML
+
+原标题：Architecture：对象存储接入业务整体架构
+简介：golang go regexp 正则预编译，regexp.MustCompile 预编译正则，不要循环内部编译正则，节省 CPU。
+ | 原文链接：m.sztyke.asia/Article/details/6023142.sHtML
+
+原标题：Practice：实现异步任务结果查询回调实践
+简介：golang 表单文件大小限制配置，限制表单上传文件最大体积，拦截超大文件上传请求，保护服务。
+ | 原文链接：m.sztyke.asia/Article/details/0030111.sHtML
+
+原标题：方案设计：分布式锁失效风险架构层面规避
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：m.sztyke.asia/Article/details/5157162.sHtML
+
+原标题：golang 系统设计异步化改造业务流程思路
+简介：手写简易 MQ 理解消息存储消费，手写极简消息队列 Demo，理解消息存储、投递、消费完整流程。
+ | 原文链接：m.sztyke.asia/Article/details/2258484.sHtML
+
+原标题：Debug：分布式会话时钟不同步令牌提前失效
+简介：golang 工具函数库封装思路，Go 通用工具库封装思路，错误处理、类型转换，业务项目复用工具代码。
+ | 原文链接：m.sztyke.asia/Article/details/9291694.sHtML
+
+原标题：golang kafka 消费者组原理讲解
+简介：移动端适配 rem vw 方案对比，对比 rem 与 vw 移动端适配方案，分析优缺点，给出选型建议。
+ | 原文链接：m.sztyke.asia/Article/details/3344009.sHtML
+
+原标题：开发记录：实现完整用户登录鉴权业务模块
+简介：nodejs redis 缓存业务实战，Node 对接 Redis 实现业务缓存，缓存热点查询结果，减轻数据库压力。
+ | 原文链接：m.sztyke.asia/Article/details/7109878.sHtML
+
+原标题：安全复盘：Redis命令注入风险防护手段
+简介：nestjs 权限守卫鉴权实现方案，使用 Nest 守卫实现接口鉴权，角色权限控制，拦截未授权接口访问。
+ | 原文链接：m.sztyke.asia/Article/details/2644442.sHtML
+
+原标题：monorepo 项目多包管理最佳实践
+简介：golang 滑动窗口限流算法 go 实现，滑动窗口限流，解决固定窗口临界流量突增漏洞，限流更精准。
+ | 原文链接：m.sztyke.asia/Article/details/0499256.sHtML
+
+原标题：开发复盘：数据库批量更新优化性能实践
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：m.sztyke.asia/Article/details/5046823.sHtML
+
+原标题：零基础理解前后端简单交互流程
+简介：golang go mod replace 本地模块替换，replace 替换模块为本地目录，修改第三方库本地调试。
+ | 原文链接：m.sztyke.asia/Article/details/5990347.sHtML
+
+原标题：golang 系统设计压测工具 wrk 使用实操
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：m.sztyke.asia/Article/details/2902882.sHtML
+
+原标题：实战：接口压力测试实操，定位系统瓶颈
+简介：golang 分库分表 id 路由规则设计，分库分表 id 路由算法，id 映射库表，数据均匀打散避免热点分片。
+ | 原文链接：m.sztyke.asia/Article/details/3031503.sHtML
+
+原标题：Practice：模拟主从延迟业务兼容方案实践
+简介：golang 单元测试 mock http 请求，mock HTTP 外部接口，单元测试不依赖外部网络，保证用例稳定运行。
+ | 原文链接：m.sztyke.asia/Article/details/3001550.sHtML
+
+原标题：golang ip 限流黑名单实现方案
+简介：golang arp 缓存读取操作，读取系统 arp 缓存表，获取 ip 对应的 mac 地址信息。
+ | 原文链接：m.sztyke.asia/Article/details/6345757.sHtML
+
+原标题：实战：Redis管道批量操作性能优化实践
+简介：golang json number 数字不转 float64，使用 json.Number 保留原始数字字符串，防止大数字精度丢失。
+ | 原文链接：m.sztyke.asia/Article/details/4690035.sHtML
+
+原标题：golang csv 读写批量数据处理
+简介：golang 数据库连接泄露排查，定位 Go 数据库连接泄露，连接没有归还池，导致连接耗尽报错。
+ | 原文链接：m.sztyke.asia/Article/details/9277031.sHtML
+
+原标题：开源实践：开源Issue沟通技巧如何有效提Bug
+简介：端口占用访问失败排查方案，讲解端口占用排查命令，定位占用进程，释放端口，解决服务启动端口被占用报错。
+ | 原文链接：m.sztyke.asia/Article/details/6031446.sHtML
+
+原标题：分布式事务最终一致性实现
+简介：前端 pdf 预览渲染方案对比，对比前端 PDF 预览库，分析性能、兼容性，给出业务选型参考。
+ | 原文链接：m.sztyke.asia/Article/details/2591448.sHtML
+
+原标题：包管理器依赖缓存清理
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：m.sztyke.asia/Article/details/8494615.sHtML
+
+原标题：设计思考：业务系统如何设计优雅失败架构
+简介：依赖版本冲突兼容修复方案，定位依赖版本冲突根源，通过版本约束、替换包，解决版本不兼容运行报错。
+ | 原文链接：m.sztyke.asia/Article/details/9361515.sHtML
+
+原标题：部署复盘：静态资源版本哈希缓存策略
+简介：项目语义化版本号规范管理，遵循语义化版本规范管理项目版本，明确主次版本变更含义。
+ | 原文链接：m.sztyke.asia/Article/details/9292514.sHtML
+
+原标题：调试工具断点调试变量查看技巧
+简介：golang toml 配置文件解析教程，Go 解析 Toml 格式配置，适用于项目配置管理场景。
+ | 原文链接：m.sztyke.asia/Article/details/2233987.sHtML
+
+原标题：Security：文件路径穿越漏洞完整防护
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：m.sztyke.asia/Article/details/3699112.sHtML
+
+原标题：安全笔记：Git仓库密钥硬编码泄露处理方案
+简介：golang go 泛型约束与类型集合，泛型 type set 约束，限制泛型支持类型，写出安全泛型代码。
+ | 原文链接：m.sztyke.asia/Article/details/5279469.sHtML
+
+原标题：echarts 大数据渲染性能调优
+简介：golang channel 缓冲无缓冲区别，缓冲 channel 与无缓冲 channel，底层行为差异业务选型参考。
+ | 原文链接：m.sztyke.asia/Article/details/4039139.sHtML
+
+原标题：记一次第三方SDK版本兼容引发线上故障
+简介：golang 熔断降级简易组件开发，Go 简易熔断组件，下游故障触发熔断，保护上游服务不被拖垮。
+ | 原文链接：m.sztyke.asia/Article/details/9603026.sHtML
+
+原标题：线上接口超时故障排查思路
+简介：DNS 解析异常第三方调用故障，排查 DNS 解析故障，修复域名解析，恢复第三方接口网络调用。
+ | 原文链接：m.sztyke.asia/Article/details/8459181.sHtML
+
+原标题：golang 系统设计限流算法原理代码实现
+简介：限流规则误拦截正常请求修复，修正限流规则阈值，避免合法用户被限流拦截，兼顾防护与可用性。
+ | 原文链接：m.sztyke.asia/Article/details/4056140.sHtML
+
+原标题：golang mysql json 字段查询使用
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：m.sztyke.asia/Article/details/3947261.sHtML
+
+原标题：踩坑：消息队列消息堆积，消费者处理能力不足
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：m.sztyke.asia/Article/details/1424658.sHtML
+
+原标题：架构笔记：WebSocket大规模连接服务架构
+简介：golang redis 客户端业务使用，Go Redis 客户端对接，实现缓存、计数器，适配各类 Redis 业务场景。
+ | 原文链接：m.sztyke.asia/Article/details/9503702.sHtML
+
+原标题：实战项目：WSL开发环境完整配置实操
+简介：golang 分库分表 id 路由规则设计，分库分表 id 路由算法，id 映射库表，数据均匀打散避免热点分片。
+ | 原文链接：m.sztyke.asia/Article/details/8588469.sHtML
+
+原标题：优化实践：序列化框架性能对比选型实践
+简介：nodejs redis 缓存业务实战，Node 对接 Redis 实现业务缓存，缓存热点查询结果，减轻数据库压力。
+ | 原文链接：m.sztyke.asia/Article/details/4168375.sHtML
+
+原标题：优化实践：业务定时任务错开高峰避免资源争抢
+简介：golang http.Server 配置参数详解，ReadTimeout WriteTimeout IdleTimeout，全方位防护慢请求攻击。
+ | 原文链接：m.sztyke.asia/Article/details/3046024.sHtML
+
+四、架构设计｜Architecture
+原标题：golang 系统设计主键 id 选型雪花自增对比
+简介：golang redis zset 实现延时任务队列，zset 存储任务到期时间，轮询到期任务执行，简易延迟队列。
+ | 原文链接：m.sztyke.asia/Article/details/4024624.sHtML
+
+原标题：踩坑：消息队列消息堆积，消费者处理能力不足
+简介：golang http 代理客户端配置，Go HTTP Client 配置代理，通过代理服务器发起网络请求。
+ | 原文链接：m.sztyke.asia/Article/details/7582503.sHtML
+
+原标题：golang 系统设计日志脱敏防止信息泄露
+简介：nestjs 拦截器过滤器管道实战，实操 Nest 拦截器、异常过滤器、管道校验，处理请求与响应统一逻辑。
+ | 原文链接：m.sztyke.asia/Article/details/3938058.sHtML
+
+原标题：golang 时间时区处理避坑指南
+简介：golang go 防止路径穿越攻击，文件操作校验路径，拒绝../ 路径穿越，禁止访问系统任意文件。
+ | 原文链接：m.sztyke.asia/Article/details/5758132.sHtML
+
+原标题：golang 系统设计消息幂等消费去重实现方案
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：m.sztyke.asia/Article/details/0707918.sHtML
+
+原标题：Git 分支切换合并删除完整操作
+简介：数据库事务 ACID 原理讲解，拆解事务四大特性，理解事务隔离、原子性，明白事务如何保障数据安全。
+ | 原文链接：m.sztyke.asia/Article/details/6393797.sHtML
+
+原标题：坑点：gitpull冲突处理不当造成代码丢失
+简介：短信服务封装失败自动重试，封装短信发送组件，处理发送失败自动重试，兼容多短信服务商。
+ | 原文链接：m.sztyke.asia/Article/details/3924703.sHtML
+
+原标题：数据库分表路由写入分片修正
+简介：文件监控服务自动重启开发，监控项目文件变更，代码修改自动重启服务，提升本地开发调试效率。
+ | 原文链接：m.sztyke.asia/Article/details/5136947.sHtML
+
+原标题：golang grafana 监控面板简单配置
+简介：golang go http 安全头配置实践，设置 http 安全响应头，防范 XSS、点击劫持，提升 web 服务安全性。
+ | 原文链接：m.sztyke.asia/Article/details/5256360.sHtML
+
+原标题：golang 系统设计熔断算法 hystrix 思路
+简介：golang sync.WaitGroup 协程等待控制，WaitGroup 控制一组协程等待全部执行完成，完成批量协程任务调度。
+ | 原文链接：m.sztyke.asia/Article/details/9625035.sHtML
+
+原标题：Hands‑on：简易速率限制中间件完整实现
+简介：golang k8s go 服务 yaml 资源编写，k8s 部署 go 应用 deployment service，健康检查资源限制配置。
+ | 原文链接：m.sztyke.asia/Article/details/5737026.sHtML
+
+原标题：方案设计：异步解耦业务架构边界识别
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：m.sztyke.asia/Article/details/8493682.sHtML
+
+原标题：Hands‑on：简易代理服务器开发实践
+简介：golang go 比较运算符可比较类型，哪些类型可以直接 == 比较，map slice 函数不可直接比较。
+ | 原文链接：m.sztyke.asia/Article/details/6373671.sHtML
+
+原标题：golang 配置热更新不重启服务
+简介：Git 分支切换合并删除完整操作，实操分支全生命周期操作，包含切换、合并、删除，熟悉日常开发分支处理流程。
+ | 原文链接：m.sztyke.asia/Article/details/2582359.sHtML
+
+原标题：预编译 SQL 防注入实现
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：m.sztyke.asia/Article/details/9202047.sHtML
+
+原标题：git rebase 整理提交历史实操
+简介：express 请求参数校验处理，接入参数校验库，校验入参，拦截非法参数，提前拦截错误请求。
+ | 原文链接：m.sztyke.asia/Article/details/8584926.sHtML
+
+原标题：接口幂等性防重复请求实现
+简介：golang go‑zero 框架项目快速搭建，go‑zero 脚手架生成微服务项目，api rpc 服务快速开发。
+ | 原文链接：m.sztyke.asia/Article/details/7369791.sHtML
+
+原标题：Practice：实现接口防重提交组件实践
+简介：golang 服务注册 etcd 简单示例，etcd 实现服务注册发现，微服务实例注册元数据，客户端发现节点。
+ | 原文链接：m.sztyke.asia/Article/details/1883515.sHtML
+
+?
