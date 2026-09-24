@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 系统设计分布式锁超时业务防死锁处理
+简介：nodejs jwt 登录鉴权完整示例，Node 实现 JWT 登录鉴权，登录签发令牌，接口校验令牌身份。
+ | 原文链接：m.eoc45s.asia/Article/details/1046242.sHtML
+
+原标题：golang 系统设计 json 解析性能优化实操
+简介：golang cgo 调用 C 语言代码示例，cgo 调用 C 函数，go 与 C 互相调用，对接 C 语言库能力。
+ | 原文链接：m.eoc45s.asia/Article/details/7416149.sHtML
+
+原标题：golang 系统设计配置中心核心能力梳理讲解
+简介：系统文件描述符上限调大，调高操作系统文件描述符上限，解决高并发场景打开文件报错。
+ | 原文链接：m.eoc45s.asia/Article/details/0714037.sHtML
+
+原标题：坑点：限流计数器重置时机错误，绕过限流规则
+简介：golang uuid 生成多种版本实现，生成 uuid v1 v4，生成唯一标识，业务用于单据编号场景。
+ | 原文链接：m.eoc45s.asia/Article/details/1826140.sHtML
+
+原标题：golang mongodb 分页性能优化技巧
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：m.eoc45s.asia/Article/details/7044558.sHtML
+
+原标题：golang 系统设计排行榜几种实现
+简介：golang http 服务优雅关闭完整示例，接收终止信号，停止接收新请求，等待现有请求处理完毕后退出服务。
+ | 原文链接：m.eoc45s.asia/Article/details/5988665.sHtML
+
+原标题：WebSocket 双向通信 demo 开发
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：m.eoc45s.asia/Article/details/8211890.sHtML
+
+原标题：安全实践：防止重放攻击接口签名方案
+简介：golang proto 默认值坑点梳理，梳理 Protobuf 默认值坑，零值字段区分未赋值，避免业务逻辑错误。
+ | 原文链接：m.eoc45s.asia/Article/details/0518579.sHtML
+
+原标题：快速上手简易网关转发逻辑模拟
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：m.eoc45s.asia/Article/details/0901891.sHtML
+
+原标题：golang etcd 租约 lease 过期机制
+简介：CI 流水线构建失败日志排查，阅读 CI 流水线输出日志，定位构建脚本、依赖、环境导致流水线失败问题。
+ | 原文链接：m.eoc45s.asia/Article/details/4354016.sHtML
+
+原标题：css 变量主题切换方案实现
+简介：golang go mod why 查询依赖引入原因，go mod why 查询为什么引入某个包，理清依赖来源。
+ | 原文链接：m.eoc45s.asia/Article/details/7144135.sHtML
+
+原标题：异步异常捕获避免进程崩溃
+简介：golang os 进程 pid 获取父进程 pid，os.Getpid 获取进程 id，获取父进程 pid，进程间识别。
+ | 原文链接：m.eoc45s.asia/Article/details/1918485.sHtML
+
+原标题：golang gorm 预加载关联查询优化
+简介：空指针异常判空容错处理，讲解空指针产生场景，规范判空逻辑，增加容错，避免空指针直接造成程序崩溃。
+ | 原文链接：m.eoc45s.asia/Article/details/3968474.sHtML
+
+原标题：方案设计：短链接系统完整架构方案拆解
+简介：Nginx 透传真实客户端 IP 配置，配置 Nginx 把真实客户端 IP 传递后端服务，后端拿到访问者真实 IP。
+ | 原文链接：m.eoc45s.asia/Article/details/3049370.sHtML
+
+原标题：golang prometheus counter gauge 使用
+简介：网络读取超时设置连接挂起防护，设置网络读取超时时间，防止请求无限挂起不返回，占用连接资源。
+ | 原文链接：m.eoc45s.asia/Article/details/1524515.sHtML
+
+原标题：架构复盘：业务系统中如何合理使用分库分表
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：m.eoc45s.asia/Article/details/2838361.sHtML
+
+原标题：golang k8s 节点污点容忍度配置
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：m.eoc45s.asia/Article/details/5978473.sHtML
+
+原标题：golang 系统设计 api 网关核心能力梳理
+简介：golang json number 数字不转 float64，使用 json.Number 保留原始数字字符串，防止大数字精度丢失。
+ | 原文链接：m.eoc45s.asia/Article/details/6594626.sHtML
+
+原标题：开发复盘：大数据量分页避免offset性能问题
+简介：golang snowflake 时钟回拨解决方案，雪花算法处理时钟回拨，防止生成重复 ID，保证 ID 全局唯一。
+ | 原文链接：m.eoc45s.asia/Article/details/2967818.sHtML
+
+原标题：实战项目：多实例部署会话一致性验证实践
+简介：golang cgroup 读取容器资源限制，go 程序读取 cgroup，获取容器 cpu 内存限额，适配容器环境。
+ | 原文链接：m.eoc45s.asia/Article/details/2828259.sHtML
+
+原标题：golang k8s 持久化 pv pvc 使用实操
+简介：接口请求重试容错机制实现，封装请求重试逻辑，遇到临时网络故障自动重试，提升第三方调用稳定性。
+ | 原文链接：m.eoc45s.asia/Article/details/3757141.sHtML
+
+原标题：golang 系统设计读写分离延迟业务兼容
+简介：Nginx 透传真实客户端 IP 配置，配置 Nginx 把真实客户端 IP 传递后端服务，后端拿到访问者真实 IP。
+ | 原文链接：m.eoc45s.asia/Article/details/7406958.sHtML
+
+原标题：golang 系统设计架构图绘图工具选型对比
+简介：线上接口超时故障排查思路，从网络、数据库、代码逻辑逐层排查接口超时，定位慢请求根因。
+ | 原文链接：m.eoc45s.asia/Article/details/5262704.sHtML
+
+原标题：配置与镜像分离防止信息泄露
+简介：Docker 容器时区错误修复方案，修复 Docker 容器内部时区偏差，解决容器内时间不对引发业务逻辑异常。
+ | 原文链接：m.eoc45s.asia/Article/details/1823525.sHtML
+
+原标题：Debug：表单提交特殊字符造成接口解析失败
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：m.eoc45s.asia/Article/details/8299574.sHtML
+
+原标题：DevOps：CI构建产物缓存复用加速编译
+简介：文件句柄耗尽资源泄露处理，定位文件句柄泄露，修复文件忘记关闭问题，解决句柄耗尽服务报错。
+ | 原文链接：m.eoc45s.asia/Article/details/7379625.sHtML
+
+原标题：容器内存扩容 OOM 被杀死修复
+简介：golang 布隆过滤器实现去重，Go 实现布隆过滤器，海量数据去重，节省内存开销，提升判断效率。
+ | 原文链接：m.eoc45s.asia/Article/details/5383574.sHtML
+
+原标题：golang 系统设计 protobuf 命名规范最佳实践
+简介：golang 字符串处理常用技巧汇总，字符串拼接、分割、替换、类型转换实操，规避字符串高频错误。
+ | 原文链接：m.eoc45s.asia/Article/details/4040280.sHtML
+
+原标题：golang 系统设计线上 ddl 变更安全执行思路
+简介：用户敏感数据脱敏代码实现，编写数据脱敏工具，对手机号、身份证做脱敏处理，防止敏感信息直接泄露。
+ | 原文链接：m.eoc45s.asia/Article/details/3757251.sHtML
+
+原标题：golang 系统设计消息大小限制业务处理方案
+简介：golang benchmark 减少测试干扰，benchmark 执行循环 b.N，避免循环内部做非被测逻辑干扰结果。
+ | 原文链接：m.eoc45s.asia/Article/details/2849170.sHtML
+
+原标题：Nginx 缓冲区调优大文件上传
+简介：golang 高并发下锁优化减少竞争，减小锁粒度，读写锁替换互斥锁，无锁编程降低锁竞争开销。
+ | 原文链接：m.eoc45s.asia/Article/details/0602816.sHtML
+
+原标题：移动端适配 rem vw 方案对比
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：m.eoc45s.asia/Article/details/3049180.sHtML
+
+原标题：Practice：手写简易限流组件，计数器、令牌桶实现
+简介：golang sync.Map 适用场景与性能对比，读多写少，离散 key，对比普通 map 加锁性能差异。
+ | 原文链接：m.eoc45s.asia/Article/details/8728917.sHtML
+
+原标题：前端 pdf 预览渲染方案对比
+简介：golang errgroup 协程组错误处理，errgroup 捕获协程错误，context 取消剩余协程，简化并发任务。
+ | 原文链接：m.eoc45s.asia/Article/details/2938070.sHtML
+
+原标题：踩坑：大报文传输，RPC消息超过大小限制
+简介：golang go 代码覆盖率线上统计，单元测试覆盖率统计，找出未测试代码分支，提升测试质量。
+ | 原文链接：m.eoc45s.asia/Article/details/5261403.sHtML
+
+原标题：开发复盘：批量任务进度持久化实现方案
+简介：Docker 多阶段构建镜像瘦身，使用 Docker 多阶段构建，剔除编译阶段依赖，产出体积更小运行镜像。
+ | 原文链接：m.eoc45s.asia/Article/details/7373516.sHtML
+
+原标题：入门实践：使用模板快速生成项目脚手架
+简介：数据库连接池参数调优，调整连接池最大最小连接数，空闲超时，避免连接耗尽或者资源浪费。
+ | 原文链接：m.eoc45s.asia/Article/details/2867958.sHtML
+
+原标题：golang 系统设计技术债务识别登记治理思路
+简介：golang pdf 生成 go 服务端生成 pdf，服务端动态生成 pdf 报表文件，直接输出下载给到前端。
+ | 原文链接：m.eoc45s.asia/Article/details/7480695.sHtML
+
+原标题：快速入门消息队列基础概念模型
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：m.eoc45s.asia/Article/details/6267351.sHtML
+
+原标题：express 请求参数校验处理
+简介：简易网关请求路由过滤模拟，模拟网关基础能力，实现请求路由转发、简单过滤，理解网关核心工作逻辑。
+ | 原文链接：m.eoc45s.asia/Article/details/0724928.sHtML
+
+
+二、踩坑排错｜Troubleshooting
+原标题：开发复盘：大JSON解析分批处理避免内存溢出
+简介：WSL 内存上限限制防止资源耗尽，修改 WSL 内存上限配置，避免 WSL 占用主机大量内存资源。
+ | 原文链接：m.eoc45s.asia/Article/details/6381793.sHtML
+
+原标题：golang mysql exists in 性能对比
+简介：本地数据库开发环境搭建指南，讲解数据库安装配置、账号权限设置、连接测试，快速搭建用于开发调试的数据库实例。
+ | 原文链接：m.eoc45s.asia/Article/details/9614920.sHtML
+
+原标题：开发复盘：分布式会话共享多种方案实践
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：m.eoc45s.asia/Article/details/0714942.sHtML
+
+原标题：golang 系统设计开源项目贡献指南 contributing
+简介：golang gorm select 指定查询字段，指定查询字段，避免查询全部字段，减少数据传输，提升查询性能。
+ | 原文链接：m.eoc45s.asia/Article/details/5152415.sHtML
+
+原标题：WebSocket 聊天室实时通讯开发
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：m.eoc45s.asia/Article/details/9825037.sHtML
+
+原标题：golang 系统设计 http3 quic 简单原理了解
+简介：文件描述符优化进程卡死修复，及时关闭文件句柄，控制打开文件数量，解决文件句柄耗尽进程卡死。
+ | 原文链接：m.eoc45s.asia/Article/details/8492703.sHtML
+
+原标题：golang 系统设计数据库迁移工具 go‑migrate 实操
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：m.eoc45s.asia/Article/details/7481707.sHtML
+
+原标题：安全复盘：业务登录暴力破解防护完整方案
+简介：Docker 容器网络不通排查，排查容器网络模式、端口映射、防火墙，解决容器之间、容器外部网络不通。
+ | 原文链接：m.eoc45s.asia/Article/details/0606069.sHtML
+
+原标题：调优方案：JVM内存参数优化，降低GC频率
+简介：golang gorm select 指定查询字段，指定查询字段，避免查询全部字段，减少数据传输，提升查询性能。
+ | 原文链接：m.eoc45s.asia/Article/details/7483506.sHtML
+
+原标题：GitHub Markdown 文档语法汇总
+简介：golang 环境变量读取与类型转换，读取系统环境变量，做类型转换默认值处理，适配多环境部署。
+ | 原文链接：m.eoc45s.asia/Article/details/1827948.sHtML
+
+原标题：开发复盘：海量日志轮转清理脚本实践
+简介：内存泄漏定位分析完整流程，分享内存泄漏排查步骤，定位没有释放的对象，解决内存持续上涨问题。
+ | 原文链接：m.eoc45s.asia/Article/details/9535140.sHtML
+
+原标题：从零搭建本地开发环境完整教程
+简介：golang select 随机分支执行特性，多个 channel 就绪 select 随机选择，理解 select 行为特性。
+ | 原文链接：m.eoc45s.asia/Article/details/1827192.sHtML
+
+原标题：golang 系统设计配置本地缓存降级策略方案
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：m.eoc45s.asia/Article/details/8483595.sHtML
+
+原标题：安全笔记：依赖包漏洞检测供应链安全
+简介：golang kitex 字节微服务框架入门，kitex 开发 rpc 微服务，代码生成，服务注册发现完整流程。
+ | 原文链接：m.eoc45s.asia/Article/details/4270471.sHtML
+
+原标题：golang 系统设计 p0 故障复盘方法论讲解
+简介：golang 项目目录分层规范设计，Go 后端项目目录分层规范，按领域分层，提高项目可读性可维护性。
+ | 原文链接：m.eoc45s.asia/Article/details/2646131.sHtML
+
+原标题：Troubleshoot：MySQL字符集utf8非utf8mb4emoji报错
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：m.eoc45s.asia/Article/details/0717960.sHtML
+
+原标题：开发记录：日志脱敏防止敏感信息输出实践
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：m.eoc45s.asia/Article/details/6370538.sHtML
+
+原标题：版本升级服务启动失败处理
+简介：golang 自定义 pprof 扩展业务指标，扩展 pprof，输出业务自定义指标，结合性能数据分析业务状态。
+ | 原文链接：m.eoc45s.asia/Article/details/1825026.sHtML
+
+原标题：静态博客部署 GitHub Pages 教程
+简介：前端水印防信息泄露实现，实现网页水印功能，页面叠加用户信息水印，防止页面截图信息外泄。
+ | 原文链接：m.eoc45s.asia/Article/details/0647259.sHtML
+
+原标题：特殊输入字符过滤解析防护
+简介：golang GC 频繁 STW 停顿优化，减少小对象分配，调整 GOGC，降低 GC 停顿对接口延迟影响。
+ | 原文链接：m.eoc45s.asia/Article/details/7606159.sHtML
+
+原标题：golang 系统设计 ide 配置 go 开发效率提升技巧
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：m.eoc45s.asia/Article/details/1824052.sHtML
+
+原标题：实战：gRPC服务编写客户端服务端完整demo
+简介：文件分片上传断点续传功能，实现文件分片上传，记录上传进度，支持断点续传大文件上传。
+ | 原文链接：m.eoc45s.asia/Article/details/1818060.sHtML
+
+原标题：项目实践：幂等表实现接口幂等业务实践
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：m.eoc45s.asia/Article/details/5270582.sHtML
+
+原标题：入门实践：简单图片上传预览本地demo
+简介：golang 分表跨表 join 查询处理方案，分表后跨分片关联查询解决方案，业务层聚合代替数据库 join。
+ | 原文链接：m.eoc45s.asia/Article/details/3047137.sHtML
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：m.eoc45s.asia/Article/details/6379474.sHtML
+
+原标题：golang 系统设计 docker compose 本地开发环境搭建
+简介：golang go url url.Values 参数编码，url.Values 构建 url 查询参数，自动处理参数 url 编码。
+ | 原文链接：m.eoc45s.asia/Article/details/5269581.sHtML
+
+原标题：golang base64 编码解码实操
+简介：golang go math 大数高精度计算，math/big 处理超大整数、高精度浮点数，金额大数运算。
+ | 原文链接：m.eoc45s.asia/Article/details/0748050.sHtML
+
+原标题：容器软链接文件权限修复
+简介：golang gzip 压缩 http 响应，服务端开启 gzip 压缩，减小接口响应体积，降低网络传输耗时。
+ | 原文链接：m.eoc45s.asia/Article/details/2040282.sHtML
+
+原标题：golang 系统设计网关性能压测优化简单思路
+简介：golang mock 单元测试编写技巧，单元测试 mock 外部依赖，隔离数据库网络，只测试业务逻辑本身。
+ | 原文链接：m.eoc45s.asia/Article/details/9694626.sHtML
+
+原标题：简易网关请求路由过滤模拟
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：m.eoc45s.asia/Article/details/5269692.sHtML
+
+原标题：Hands‑on：简易熔断逻辑状态机原型实现
+简介：golang benchmark 参数‑bench‑mem 统计内存分配，benchmark 开启内存统计，观察内存分配次数大小。
+ | 原文链接：m.eoc45s.asia/Article/details/9562415.sHtML
+
+原标题：Issue：Nginxkeepalive参数不合理大量TIME_WAIT
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：m.eoc45s.asia/Article/details/3045030.sHtML
+
+原标题：架构笔记：数据库连接池架构参数调优思路
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：m.eoc45s.asia/Article/details/9724926.sHtML
+
+原标题：eslint prettier 代码规范落地
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：m.eoc45s.asia/Article/details/8525259.sHtML
+
+原标题：golang 系统设计测试覆盖率目标合理设定思路
+简介：golang defer panic 异常处理，理解 defer 延迟执行，panic 恐慌捕获，实现函数资源释放异常保护。
+ | 原文链接：m.eoc45s.asia/Article/details/9592783.sHtML
+
+原标题：空指针异常判空容错处理
+简介：调试工具断点调试变量查看技巧，演示断点设置、变量监视、调用栈查看，借助调试工具高效排查业务逻辑错误。
+ | 原文链接：m.eoc45s.asia/Article/details/0728170.sHtML
+
+原标题：OOMKilled 容器被杀完整排查
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：m.eoc45s.asia/Article/details/4036137.sHtML
+
+原标题：golang 系统设计故障应急响应完整流程梳理
+简介：golang redis 过期键监听回调，监听 key 过期事件，过期触发业务逻辑，实现过期自动处理业务场景。
+ | 原文链接：m.eoc45s.asia/Article/details/4057363.sHtML
+
+原标题：入门实践：本地简单代理服务搭建
+简介：日志输出规范防止磁盘爆满，控制日志输出量，配置日志切割轮转，避免日志文件无限增长占满磁盘。
+ | 原文链接：m.eoc45s.asia/Article/details/0715060.sHtML
+
+原标题：nodejs 跨域中间件配置细节
+简介：预编译 SQL 防注入实现，使用预编译 SQL 方式，杜绝 SQL 注入风险，提升数据库访问层安全能力。
+ | 原文链接：m.eoc45s.asia/Article/details/3056836.sHtML
+
+三、实战开发｜Practice
+原标题：vue3 组合式 API 业务开发实战
+简介：golang 数据库 ORM 框架选型对比，gorm xorm sqlx 对比各 ORM 优缺点，根据业务场景选型。
+ | 原文链接：m.eoc45s.asia/Article/details/4040281.sHtML
+
+原标题：开发复盘：统一错误码体系设计落地实践
+简介：异步编程 Promise 执行流程解析，拆解异步执行顺序，理解回调与 Promise 差异，理清异步场景下代码执行逻辑。
+ | 原文链接：m.eoc45s.asia/Article/details/7182702.sHtML
+
+原标题：golang 系统设计定时任务调度时间校准要点
+简介：golang 内存缓存简单实现方案，Go 实现进程内简易内存缓存，本地缓存热点数据，减少远程调用。
+ | 原文链接：m.eoc45s.asia/Article/details/8491708.sHtML
+
+原标题：开发复盘：长轮询接口实现服务端消息推送
+简介：golang redis bloom 布隆过滤器 go‑redis，go‑redis 布隆过滤器，海量数据判断是否存在，减少数据库查询。
+ | 原文链接：m.eoc45s.asia/Article/details/1718350.sHtML
+
+原标题：单元测试用例编写入门实操
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：m.eoc45s.asia/Article/details/8503848.sHtML
+
+原标题：golang 系统设计接口向前兼容改造实操
+简介：css 动画性能优化 GPU 加速，优化 CSS 动画，使用 GPU 加速属性，避免动画过程页面卡顿掉帧。
+ | 原文链接：m.eoc45s.asia/Article/details/6480515.sHtML
+
+原标题：golang proto 默认值坑点梳理
+简介：golang hmac 签名生成校验示例，hmac 生成消息签名，做接口请求签名，校验数据不被篡改。
+ | 原文链接：m.eoc45s.asia/Article/details/1058363.sHtML
+
+原标题：golang redis 过期策略内存淘汰
+简介：nodejs 信号处理优雅关闭服务，监听系统信号，执行资源清理，实现 Node 服务优雅停机，拒绝粗暴杀死进程。
+ | 原文链接：m.eoc45s.asia/Article/details/9603814.sHtML
+
+原标题：nodejs 消息队列消费服务开发
+简介：golang 内存 dump 线上堆快照采集，线上生成内存 dump 文件，线下分析，定位内存泄漏问题。
+ | 原文链接：m.eoc45s.asia/Article/details/2924516.sHtML
+
+原标题：golang 表单文件大小限制配置
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：m.eoc45s.asia/Article/details/6374515.sHtML
+
+原标题：golang 令牌桶限流中间件 gin
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：m.eoc45s.asia/Article/details/3970581.sHtML
+
+原标题：安全复盘：环境变量密钥泄露风险与防护
+简介：Shell 运维脚本服务器效率提升，编写常用运维 Shell 脚本，自动化服务器运维操作，减少手工重复工作。
+ | 原文链接：m.eoc45s.asia/Article/details/6262306.sHtML
+
+原标题：golang prometheus metrics 埋点开发
+简介：golang pprof 线上采集性能数据，线上环境采集 pprof 性能样本，不用停机，分析线上性能问题。
+ | 原文链接：m.eoc45s.asia/Article/details/2859382.sHtML
+
+原标题：方案对比：定时任务框架选型与架构对比
+简介：golang go ring 环形容器循环队列，ring 环形链表实现循环队列，环形缓冲区业务场景。
+ | 原文链接：m.eoc45s.asia/Article/details/5191615.sHtML
+
+原标题：Practice：模拟第三方接口超时服务降级验证
+简介：golang mime 类型检测文件，mime 识别文件 mime 类型，设置 http 响应 Content‑Type。
+ | 原文链接：m.eoc45s.asia/Article/details/6304585.sHtML
+
+原标题：开源实践：维护开源项目Issue管理经验总结
+简介：上传接口跨域配置特殊适配，针对文件上传接口，适配复杂请求，修复上传场景下跨域失效问题。
+ | 原文链接：m.eoc45s.asia/Article/details/6391696.sHtML
+
+原标题：golang 系统设计 grpc proto 接口设计原则
+简介：golang go 输入数据校验防御，所有外部入参严格校验长度格式，防止恶意输入造成业务异常。
+ | 原文链接：m.eoc45s.asia/Article/details/1858252.sHtML
+
+原标题：安全笔记：CSP内容安全策略配置实践
+简介：前后端交互跨域问题完整处理，讲解跨域产生原理，列举多种解决方案，适配开发、生产不同环境的跨域处理。
+ | 原文链接：m.eoc45s.asia/Article/details/8495915.sHtML
+
+原标题：golang 系统设计密码存储哈希加盐实现
+简介：内网 DNS 不稳定随机报错排查，定位内网 DNS 抖动问题，配置备选 DNS，解决偶现域名解析失败。
+ | 原文链接：m.eoc45s.asia/Article/details/3937250.sHtML
+
+原标题：golang github actions 多平台构建
+简介：数据库事务 ACID 原理讲解，拆解事务四大特性，理解事务隔离、原子性，明白事务如何保障数据安全。
+ | 原文链接：m.eoc45s.asia/Article/details/1829060.sHtML
+
+原标题：golang http grpc 全链路埋点示例
+简介：golang gitlab ci go 项目流水线编写，gitlab ci 流水线执行单元测试、静态检查、构建推送镜像。
+ | 原文链接：m.eoc45s.asia/Article/details/5262342.sHtML
+
+原标题：Hands‑on：简易链路追踪原型开发实践
+简介：WSL 文件权限访问异常修复，处理 WSL 环境文件权限错乱，调整权限配置，实现文件正常读写访问。
+ | 原文链接：m.eoc45s.asia/Article/details/2936842.sHtML
+
+原标题：Docker 网络模式容器互通设置
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：m.eoc45s.asia/Article/details/2971682.sHtML
+
+原标题：golang 系统设计 protobuf 默认值坑点梳理
+简介：golang go 值传递引用传递理解，go 全部为值传递，指针本质拷贝指针值，理清参数传递行为。
+ | 原文链接：m.eoc45s.asia/Article/details/1841394.sHtML
+
+原标题：golang 系统设计限流服务架构讲解
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：m.eoc45s.asia/Article/details/0727959.sHtML
+
+原标题：golang ci 流水线代码质量扫描集成
+简介：golang contract 契约测试微服务，微服务契约测试，保证接口变更不破坏调用方，提前发现兼容性问题。
+ | 原文链接：m.eoc45s.asia/Article/details/0617258.sHtML
+
+原标题：性能调优：MySQL查询性能优化实战清单
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：m.eoc45s.asia/Article/details/5283804.sHtML
+
+原标题：实践：API错误统一捕获与告警通知实践
+简介：golang errgroup 协程组错误处理，errgroup 捕获协程错误，context 取消剩余协程，简化并发任务。
+ | 原文链接：m.eoc45s.asia/Article/details/4058363.sHtML
+
+原标题：golang 系统设计传输加密 tls 配置要点
+简介：开源源码阅读拆解学习思路，分享阅读大型开源项目方法，从入口文件逐层拆解模块，降低源码学习门槛。
+ | 原文链接：m.eoc45s.asia/Article/details/3960504.sHtML
+
+原标题：开发复盘：长轮询接口实现服务端消息推送
+简介：golang 负载均衡轮询加权轮询实现，手写负载均衡算法，轮询、加权轮询分发请求到后端节点。
+ | 原文链接：m.eoc45s.asia/Article/details/4047248.sHtML
+
+原标题：golang 配置热更新不重启服务
+简介：golang go 符号表与调试信息取舍，区分生产环境调试符号取舍，平衡镜像体积与故障排查能力。
+ | 原文链接：m.eoc45s.asia/Article/details/5291282.sHtML
+
+原标题：golang minio 预签名 url 临时访问
+简介：golang 配置文件热加载监听变更，监听配置文件改动，自动重新加载配置，业务即时生效无需重启。
+ | 原文链接：m.eoc45s.asia/Article/details/0718959.sHtML
+
+原标题：golang 系统设计技术方案评审关注点清单参考
+简介：程序性能指标 CPU 内存监控，讲解基础性能指标含义，简单实现监控采集，初步定位程序运行性能瓶颈。
+ | 原文链接：m.eoc45s.asia/Article/details/9202729.sHtML
+
+原标题：golang 系统设计本地缓存与分布式缓存
+简介：git rebase 整理提交历史实操，使用 rebase 整理杂乱提交记录，将多条提交合并，保持 git 提交历史干净线性。
+ | 原文链接：m.eoc45s.asia/Article/details/6374696.sHtML
+
+原标题：golang etcd watch 监听配置变更
+简介：golang go 版本管理 go install 安装工具，go install 安装指定版本 go 工具，管理本地 go 工具版本。
+ | 原文链接：m.eoc45s.asia/Article/details/8482704.sHtML
+
+原标题：GraphQL 接口查询优化实操
+简介：golang arp 缓存读取操作，读取系统 arp 缓存表，获取 ip 对应的 mac 地址信息。
+ | 原文链接：m.eoc45s.asia/Article/details/0619161.sHtML
+
+原标题：读懂开源项目 README 实用技巧
+简介：golang viper 多源配置管理实操，viper 读取配置文件环境变量命令行参数，多源配置优先级管理。
+ | 原文链接：m.eoc45s.asia/Article/details/4157138.sHtML
+
+原标题：开发复盘：大数据量分页避免offset性能问题
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：m.eoc45s.asia/Article/details/4183806.sHtML
+
+原标题：安全笔记：Git仓库密钥硬编码泄露处理方案
+简介：golang go panic 合理使用边界，panic 只用于不可恢复程序错误，业务逻辑禁止直接 panic。
+ | 原文链接：m.eoc45s.asia/Article/details/4141504.sHtML
+
+原标题：开发复盘：内存缓存LRU淘汰策略实现实践
+简介：WebSocket 断线重连稳定优化，增加 WebSocket 断线自动重连逻辑，处理网络抖动，维持长连接稳定。
+ | 原文链接：m.eoc45s.asia/Article/details/1836737.sHtML
+
+四、架构设计｜Architecture
+原标题：golang 系统设计 graphql 接口优缺点梳理
+简介：golang http cookie jar 会话处理，客户端 cookie jar 自动管理 cookie，处理登录态会话。
+ | 原文链接：m.eoc45s.asia/Article/details/6370686.sHtML
+
+原标题：Git 标签版本标记发布管理
+简介：对象存储上传下载权限实操，演示对象存储文件上传、下载、访问权限设置，适配业务文件存储场景。
+ | 原文链接：m.eoc45s.asia/Article/details/9609170.sHtML
+
+原标题：架构笔记：海量消息堆积架构处理能力设计
+简介：前端防抖节流高频事件处理，封装防抖节流工具，处理滚动、输入框输入等高频触发事件减少执行次数。
+ | 原文链接：m.eoc45s.asia/Article/details/4152425.sHtML
+
+原标题：安全笔记：Cookie安全属性SecureHttpOnly
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：m.eoc45s.asia/Article/details/7314735.sHtML
+
+原标题：架构复盘：服务优雅停机架构设计资源释放
+简介：golang go 测试文件命名规范，_test.go 测试文件，TestXxx 单元测试函数命名规范。
+ | 原文链接：m.eoc45s.asia/Article/details/1938351.sHtML
+
+原标题：Redis 分布式锁高并发安全实现
+简介：nodejs 接口限流防刷代码实现，Node 层实现接口限流，限制 IP 访问频次，防护接口被恶意高频调用。
+ | 原文链接：m.eoc45s.asia/Article/details/9558358.sHtML
+
+原标题：OpenSource：开源项目风险评估依赖安全检查
+简介：golang consul 服务发现简单示例，对接 Consul 实现服务注册发现，微服务实例自动感知。
+ | 原文链接：m.eoc45s.asia/Article/details/9503928.sHtML
+
+原标题：分布式 ID 生成器高并发实现
+简介：CI 持续集成自动构建流程，讲解 CI 基础概念，配置流水线实现代码提交后自动构建、测试，提升交付自动化。
+ | 原文链接：m.eoc45s.asia/Article/details/8580585.sHtML
+
+原标题：golang 系统设计消息可靠性投递实现
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：m.eoc45s.asia/Article/details/2041251.sHtML
+
+原标题：Docker 网络模式容器互通设置
+简介：golang go‑zero 框架项目快速搭建，go‑zero 脚手架生成微服务项目，api rpc 服务快速开发。
+ | 原文链接：m.eoc45s.asia/Article/details/0713807.sHtML
+
+原标题：快速上手搭建简易内网测试服务
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：m.eoc45s.asia/Article/details/7370695.sHtML
+
+原标题：golang 系统设计用户签到统计方案
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：m.eoc45s.asia/Article/details/4151363.sHtML
+
+原标题：时间精度统一业务判断修复
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：m.eoc45s.asia/Article/details/9602806.sHtML
+
+原标题：排错：静态资源CDN缓存未刷新旧资源持续返回
+简介：golang http client Transport 参数调优，Transport 最大连接空闲连接，TLS 配置，http 客户端调优。
+ | 原文链接：m.eoc45s.asia/Article/details/7482625.sHtML
+
+原标题：预编译 SQL 防注入实现
+简介：文件监控服务自动重启开发，监控项目文件变更，代码修改自动重启服务，提升本地开发调试效率。
+ | 原文链接：m.eoc45s.asia/Article/details/8585636.sHtML
+
+原标题：golang 系统设计告警分级 p0‑p3 定义处理流程
+简介：golang 负载均衡轮询加权轮询实现，手写负载均衡算法，轮询、加权轮询分发请求到后端节点。
+ | 原文链接：m.eoc45s.asia/Article/details/9503849.sHtML
+
+原标题：方案设计：接口版本管理架构向前兼容策略
+简介：CI 流水线超时时间延长配置，调大 CI 任务超时阈值，解决构建任务耗时较长被流水线强制终止。
+ | 原文链接：m.eoc45s.asia/Article/details/5262392.sHtML
+
+原标题：新手教程：本地环境变量配置全流程
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：m.eoc45s.asia/Article/details/6373814.sHtML
+
+?
